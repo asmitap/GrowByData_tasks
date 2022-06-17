@@ -1,0 +1,74 @@
+id,search_query,missedIngredientCount,type,aisle,usedIngredientCount,title,name,unit,amount
+662315,pizza,4,missed_ingredient,Baking,1,"Sundried Tomato,Olive,Rosemary and Thyme Foccacia Bread",active yeast,teaspoons,2.0
+662315,pizza,4,missed_ingredient,Canned and Jarred,1,"Sundried Tomato,Olive,Rosemary and Thyme Foccacia Bread",olives,grams,25.0
+662315,pizza,4,missed_ingredient,Canned and Jarred;Produce,1,"Sundried Tomato,Olive,Rosemary and Thyme Foccacia Bread",sundried tomatoes,grams,25.0
+662315,pizza,4,missed_ingredient,Produce;Spices and Seasonings,1,"Sundried Tomato,Olive,Rosemary and Thyme Foccacia Bread",thyme,Handful,1.0
+662315,pizza,4,used_ingredient,Baking,1,"Sundried Tomato,Olive,Rosemary and Thyme Foccacia Bread",pizza mix,grams,150.0
+644846,pizza,5,missed_ingredient,"Milk, Eggs, Other Dairy",1,Gluten Free Onion Rings,egg,,1.0
+644846,pizza,5,missed_ingredient,"Milk, Eggs, Other Dairy",1,Gluten Free Onion Rings,milk,cup,1.0
+644846,pizza,5,missed_ingredient,Baking,1,Gluten Free Onion Rings,baking powder,teaspoon,1.0
+644846,pizza,5,missed_ingredient,Produce,1,Gluten Free Onion Rings,yellow onions,large,2.0
+644846,pizza,5,missed_ingredient,Gluten Free;Health Foods;Baking,1,Gluten Free Onion Rings,gluten free all purpose flour,cup,0.5
+644846,pizza,5,used_ingredient,Baking,1,Gluten Free Onion Rings,pizza mix,cup,1.0
+661447,egg,2,missed_ingredient,Cheese,1,Square Deviled Eggs,cream cheese,serving,1.0
+661447,egg,2,missed_ingredient,Meat,1,Square Deviled Eggs,ham,serving,1.0
+661447,egg,2,used_ingredient,"Milk, Eggs, Other Dairy",1,Square Deviled Eggs,eggs,serving,1.0
+991625,egg,2,missed_ingredient,"Milk, Eggs, Other Dairy",1,Nutella Buttercream Cupcakes with Hidden Cadbury Egg,milk,cup,1.0
+991625,egg,2,missed_ingredient,Baking,1,Nutella Buttercream Cupcakes with Hidden Cadbury Egg,vanilla,tsp,1.0
+991625,egg,2,used_ingredient,"Milk, Eggs, Other Dairy",1,Nutella Buttercream Cupcakes with Hidden Cadbury Egg,eggs,,4.0
+663338,egg,2,missed_ingredient,Meat,1,The Scotch Egg,pork sausage,oz,16.0
+663338,egg,2,missed_ingredient,"Bakery/Bread;Ethnic Foods;Oil, Vinegar, Salad Dressing;Baking",1,The Scotch Egg,panko breadcrumbs,cup,2.0
+663338,egg,2,used_ingredient,"Milk, Eggs, Other Dairy",1,The Scotch Egg,eggs,large,6.0
+631807,egg,2,missed_ingredient,Refrigerated;Frozen,1,"Toasted"" Agnolotti (or Ravioli)",ravioli,oz,13.0
+631807,egg,2,missed_ingredient,Pasta and Rice,1,"Toasted"" Agnolotti (or Ravioli)",breadcrumbs,cup,1.5
+631807,egg,2,used_ingredient,"Milk, Eggs, Other Dairy",1,"Toasted"" Agnolotti (or Ravioli)",egg,,1.0
+641890,egg,2,missed_ingredient,"Milk, Eggs, Other Dairy",1,Easy Cheesy Scrambled Eggs,milk,cup,0.25
+641890,egg,2,missed_ingredient,Cheese,1,Easy Cheesy Scrambled Eggs,jack cheese,cup,0.5
+641890,egg,2,used_ingredient,"Milk, Eggs, Other Dairy",1,Easy Cheesy Scrambled Eggs,eggs,large,8.0
+659581,egg,2,missed_ingredient,Meat,1,Scotch Eggs,bulk sausage,pound,1.0
+659581,egg,2,missed_ingredient,Ethnic Foods;Baking,1,Scotch Eggs,corn meal,cup,1.0
+659581,egg,2,used_ingredient,"Milk, Eggs, Other Dairy",1,Scotch Eggs,eggs,,9.0
+633574,egg,2,missed_ingredient,"Milk, Eggs, Other Dairy",1,Baked Custard,milk,cups,2.0
+633574,egg,2,missed_ingredient,Baking,1,Baked Custard,vanilla,teaspoon,0.5
+633574,egg,2,used_ingredient,"Milk, Eggs, Other Dairy",1,Baked Custard,eggs,,4.0
+635964,egg,2,missed_ingredient,Pasta and Rice,1,Bread Omlette,bread crumbs,cup,1.0
+635964,egg,2,missed_ingredient,"Milk, Eggs, Other Dairy",1,Bread Omlette,milk,cup,1.0
+635964,egg,2,used_ingredient,"Milk, Eggs, Other Dairy",1,Bread Omlette,eggs,,4.0
+646545,egg,3,missed_ingredient,Cheese,1,Heart Shaped Egg & Cheese Nibbles,american cheese,slices,8.0
+646545,egg,3,missed_ingredient,Bakery/Bread,1,Heart Shaped Egg & Cheese Nibbles,whole grain english muffins,,4.0
+646545,egg,3,missed_ingredient,Sweet Snacks,1,Heart Shaped Egg & Cheese Nibbles,cookie,inch,3.0
+646545,egg,3,used_ingredient,"Milk, Eggs, Other Dairy",1,Heart Shaped Egg & Cheese Nibbles,eggs,large,8.0
+636458,egg,3,missed_ingredient,Meat,1,Bunny Eggs Kids Breakfast,bacon,slices,12.0
+636458,egg,3,missed_ingredient,Produce,1,Bunny Eggs Kids Breakfast,blueberries,,12.0
+636458,egg,3,missed_ingredient,Cheese,1,Bunny Eggs Kids Breakfast,mild cheddar cheese,large slices,2.0
+636458,egg,3,used_ingredient,"Milk, Eggs, Other Dairy",1,Bunny Eggs Kids Breakfast,eggs,extra large,2.0
+661447,cheese,2,missed_ingredient,"Milk, Eggs, Other Dairy",1,Square Deviled Eggs,eggs,serving,1.0
+661447,cheese,2,missed_ingredient,Meat,1,Square Deviled Eggs,ham,serving,1.0
+661447,cheese,2,used_ingredient,Cheese,1,Square Deviled Eggs,cream cheese,serving,1.0
+633678,cheese,2,missed_ingredient,Produce,1,Baked Mushroom Caps,mushrooms,lbs,1.5
+633678,cheese,2,missed_ingredient,"Oil, Vinegar, Salad Dressing",1,Baked Mushroom Caps,slaw dressing,pkg,0.25
+633678,cheese,2,used_ingredient,Cheese,1,Baked Mushroom Caps,cream cheese,oz,8.0
+641720,cheese,2,missed_ingredient,Meat,1,"Duck with Dried Cranberries, Tangerines and Mascarpone Sauce",duck breast,servings,2.0
+641720,cheese,2,missed_ingredient,Beverages,1,"Duck with Dried Cranberries, Tangerines and Mascarpone Sauce",juice,,6.0
+641720,cheese,2,used_ingredient,Cheese,1,"Duck with Dried Cranberries, Tangerines and Mascarpone Sauce",mascarpone,tablespoons,2.0
+655477,cheese,2,missed_ingredient,Produce,1,Peas And Tarragon With Fresh Goat Cheese,peas,pound,1.0
+655477,cheese,2,missed_ingredient,Produce;Spices and Seasonings,1,Peas And Tarragon With Fresh Goat Cheese,tarragon,teaspoon,1.0
+655477,cheese,2,used_ingredient,Cheese,1,Peas And Tarragon With Fresh Goat Cheese,goat cheese,package,1.0
+633227,cheese,2,missed_ingredient,Ethnic Foods,1,Baby Brie Wedge In Phyllo,clarified butter,tablespoons,4.0
+633227,cheese,2,missed_ingredient,Refrigerated;Frozen,1,Baby Brie Wedge In Phyllo,phyllo dough,sheets,3.0
+633227,cheese,2,used_ingredient,Cheese,1,Baby Brie Wedge In Phyllo,brie,,1.0
+645708,cheese,2,missed_ingredient,Dried Fruits;Produce,1,Grilled Figs With Brie and Prosciutto,figs,,2.0
+645708,cheese,2,missed_ingredient,Meat,1,Grilled Figs With Brie and Prosciutto,prosciutto,slice,1.0
+645708,cheese,2,used_ingredient,Cheese,1,Grilled Figs With Brie and Prosciutto,brie cheese,square,1.0
+644958,cheese,2,missed_ingredient,Meat,1,Goat Cheese Stuffed Bacon Wrapped Jalapeno Appetizer,bacon,slices,6.0
+644958,cheese,2,missed_ingredient,Canned and Jarred;Produce;Ethnic Foods,1,Goat Cheese Stuffed Bacon Wrapped Jalapeno Appetizer,jalapenos,,6.0
+644958,cheese,2,used_ingredient,Cheese,1,Goat Cheese Stuffed Bacon Wrapped Jalapeno Appetizer,goat cheese,ounces,3.0
+157994,cheese,2,missed_ingredient,Baking,1,Oreo Balls,chocolate chips,oz,10.0
+157994,cheese,2,missed_ingredient,Sweet Snacks,1,Oreo Balls,oreo cookies,,30.0
+157994,cheese,2,used_ingredient,Cheese,1,Oreo Balls,cream cheese,oz,8.0
+1416203,cheese,2,missed_ingredient,Produce,1,Tater Tot Chili Cheese Casserole,chili,cups,2.0
+1416203,cheese,2,missed_ingredient,Frozen,1,Tater Tot Chili Cheese Casserole,tater tots,cups,2.0
+1416203,cheese,2,used_ingredient,Cheese,1,Tater Tot Chili Cheese Casserole,shredded cheddar cheese,cup,1.0
+715406,cheese,2,missed_ingredient,Baking,1,Delicious and Moist Chocolate Truffle,semi sweet chocolate chips,cups,3.0
+715406,cheese,2,missed_ingredient,Baking,1,Delicious and Moist Chocolate Truffle,vanilla,tsp,1.5
+715406,cheese,2,used_ingredient,Cheese,1,Delicious and Moist Chocolate Truffle,cream cheese,oz,8.0
