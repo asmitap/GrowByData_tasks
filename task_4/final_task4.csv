@@ -1,0 +1,2632 @@
+index,field,value
+ 1.1.1.1,category1_name,CAD Audio U49 USB Large Format Side Address Studio Microphone with Headphone Monitor and Echo
+ 1.1.1.4,category1_price,Nan
+ 1.1.1.2,category1_rating,32 ratings
+ 1.1.1.3,category1_review,a-icon a-icon-star a-star-4-5
+ 1.2.1.5,category2_description,98% positive over last 12 months
+ 1.2.10.5,category2_description,85% positive over last 12 months
+ 1.2.11.5,category2_description,98% positive over last 12 months
+ 1.2.12.5,category2_description,92% positive over last 12 months
+ 1.2.13.5,category2_description,Nan
+ 1.2.14.5,category2_description,90% positive over last 12 months
+ 1.2.15.5,category2_description,92% positive over last 12 months
+ 1.2.16.5,category2_description,90% positive over last 12 months
+ 1.2.17.5,category2_description,91% positive over last 12 months
+ 1.2.18.5,category2_description,88% positive over last 12 months
+ 1.2.2.5,category2_description,98% positive over last 12 months
+ 1.2.3.5,category2_description,96% positive over last 12 months
+ 1.2.4.5,category2_description,99% positive over last 12 months
+ 1.2.5.5,category2_description,95% positive over last 12 months
+ 1.2.6.5,category2_description,84% positive over last 12 months
+ 1.2.7.5,category2_description,94% positive over last 12 months
+ 1.2.8.5,category2_description,89% positive over last 12 months
+ 1.2.9.5,category2_description,89% positive over last 12 months
+ 1.2.1.1,category2_name,Mugan_Music_Group
+ 1.2.10.1,category2_name,"SETI, Inc."
+ 1.2.11.1,category2_name,Yandas Music & Pro Audio
+ 1.2.12.1,category2_name,Amazon.com
+ 1.2.13.1,category2_name,Interstate Music
+ 1.2.14.1,category2_name,Full Compass Systems
+ 1.2.15.1,category2_name,Adorama
+ 1.2.16.1,category2_name,American Shopping
+ 1.2.17.1,category2_name,Guitar Audio
+ 1.2.18.1,category2_name,Capital Music Gear
+ 1.2.2.1,category2_name,This is an open box item that is basically brand new
+ 1.2.3.1,category2_name,Mugan_Music_Group
+ 1.2.4.1,category2_name,Amazon.com
+ 1.2.5.1,category2_name,Photo4Less
+ 1.2.6.1,category2_name,GuitarTruck
+ 1.2.7.1,category2_name,AVLGear
+ 1.2.8.1,category2_name,MusicStoreLive
+ 1.2.9.1,category2_name,Pitbull Electronics
+ 1.2.1.2,category2_price,Nan
+ 1.2.10.2,category2_price,Nan
+ 1.2.11.2,category2_price,Nan
+ 1.2.12.2,category2_price,Nan
+ 1.2.13.2,category2_price,Nan
+ 1.2.14.2,category2_price,Nan
+ 1.2.15.2,category2_price,Nan
+ 1.2.16.2,category2_price,Nan
+ 1.2.17.2,category2_price,Nan
+ 1.2.18.2,category2_price,Nan
+ 1.2.2.2,category2_price,Nan
+ 1.2.3.2,category2_price,Nan
+ 1.2.4.2,category2_price,Nan
+ 1.2.5.2,category2_price,Nan
+ 1.2.6.2,category2_price,Nan
+ 1.2.7.2,category2_price,Nan
+ 1.2.8.2,category2_price,Nan
+ 1.2.9.2,category2_price,Nan
+ 1.2.1.4,category2_rating_count,2340
+ 1.2.10.4,category2_rating_count,269
+ 1.2.11.4,category2_rating_count,2340
+ 1.2.12.4,category2_rating_count,7711
+ 1.2.13.4,category2_rating_count,$10
+ 1.2.14.4,category2_rating_count,9116
+ 1.2.15.4,category2_rating_count,573346
+ 1.2.16.4,category2_rating_count,670
+ 1.2.17.4,category2_rating_count,6347
+ 1.2.18.4,category2_rating_count,958
+ 1.2.2.4,category2_rating_count,2340
+ 1.2.3.4,category2_rating_count,24284
+ 1.2.4.4,category2_rating_count,38240
+ 1.2.5.4,category2_rating_count,324
+ 1.2.6.4,category2_rating_count,4281
+ 1.2.7.4,category2_rating_count,2646
+ 1.2.8.4,category2_rating_count,5125
+ 1.2.9.4,category2_rating_count,298
+ 1.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 1.2.10.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 1.2.11.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 1.2.12.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 1.2.13.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 1.2.14.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 1.2.15.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 1.2.16.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 1.2.17.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 1.2.18.3,category2_review,Nan
+ 1.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 1.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 1.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 1.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 1.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 1.2.7.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 1.2.8.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 1.2.9.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 2.1.1.1,category1_name,"CAD Audio U9 USB Cardioid Condenser Microphone,Black"
+ 2.1.1.4,category1_price,$29.99
+ 2.1.1.2,category1_rating,75 ratings
+ 2.1.1.3,category1_review,a-icon a-icon-star a-star-4
+ 2.2.1.5,category2_description,92% positive over last 12 months
+ 2.2.10.5,category2_description,89% positive over last 12 months
+ 2.2.11.5,category2_description,87% positive over last 12 months
+ 2.2.12.5,category2_description,91% positive over last 12 months
+ 2.2.13.5,category2_description,92% positive over last 12 months
+ 2.2.2.5,category2_description,98% positive over last 12 months
+ 2.2.3.5,category2_description,99% positive over last 12 months
+ 2.2.4.5,category2_description,84% positive over last 12 months
+ 2.2.5.5,category2_description,82% positive over last 12 months
+ 2.2.6.5,category2_description,95% positive over last 12 months
+ 2.2.7.5,category2_description,92% positive over last 12 months
+ 2.2.8.5,category2_description,94% positive over last 12 months
+ 2.2.9.5,category2_description,89% positive over last 12 months
+ 2.2.1.1,category2_name,Amazon.com
+ 2.2.10.1,category2_name,Casa Mila Inc
+ 2.2.11.1,category2_name,Consumer Supply Co
+ 2.2.12.1,category2_name,Guitar Audio
+ 2.2.13.1,category2_name,Adorama
+ 2.2.2.1,category2_name,Amazon.com
+ 2.2.3.1,category2_name,Photo4Less
+ 2.2.4.1,category2_name,AVLGear
+ 2.2.5.1,category2_name,Licario
+ 2.2.6.1,category2_name,GuitarTruck
+ 2.2.7.1,category2_name,Interstate Music
+ 2.2.8.1,category2_name,MusicStoreLive
+ 2.2.9.1,category2_name,Pitbull Electronics
+ 2.2.1.2,category2_price,Nan
+ 2.2.10.2,category2_price,Nan
+ 2.2.11.2,category2_price,Nan
+ 2.2.12.2,category2_price,Nan
+ 2.2.13.2,category2_price,Nan
+ 2.2.2.2,category2_price,Nan
+ 2.2.3.2,category2_price,Nan
+ 2.2.4.2,category2_price,Nan
+ 2.2.5.2,category2_price,Nan
+ 2.2.6.2,category2_price,Nan
+ 2.2.7.2,category2_price,Nan
+ 2.2.8.2,category2_price,Nan
+ 2.2.9.2,category2_price,Nan
+ 2.2.1.4,category2_rating_count,44
+ 2.2.10.4,category2_rating_count,496
+ 2.2.11.4,category2_rating_count,538
+ 2.2.12.4,category2_rating_count,6347
+ 2.2.13.4,category2_rating_count,573346
+ 2.2.2.4,category2_rating_count,2340
+ 2.2.3.4,category2_rating_count,38240
+ 2.2.4.4,category2_rating_count,4281
+ 2.2.5.4,category2_rating_count,59
+ 2.2.6.4,category2_rating_count,324
+ 2.2.7.4,category2_rating_count,7711
+ 2.2.8.4,category2_rating_count,2646
+ 2.2.9.4,category2_rating_count,5125
+ 2.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 2.2.10.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 2.2.11.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 2.2.12.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 2.2.13.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 2.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 2.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 2.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 2.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 2.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 2.2.7.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 2.2.8.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 2.2.9.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 3.1.1.1,category1_name,"Astatic 920B 20"" Cardioid Condenser Mini Gooseneck Microphone - Equitek Capsule for Extended Frequency Response"
+ 3.1.1.4,category1_price,$206.29
+ 3.1.1.2,category1_rating,2 ratings
+ 3.1.1.3,category1_review,a-icon a-icon-star a-star-4
+ 3.2.1.5,category2_description,83% positive over last 12 months
+ 3.2.2.5,category2_description,Nan
+ 3.2.3.5,category2_description,71% positive over last 12 months
+ 3.2.4.5,category2_description,Nan
+ 3.2.5.5,category2_description,84% positive over last 12 months
+ 3.2.1.1,category2_name,Amazon.com
+ 3.2.2.1,category2_name,Amazon.com
+ 3.2.3.1,category2_name,Home Essentials ✅
+ 3.2.4.1,category2_name,JM PRIME
+ 3.2.5.1,category2_name,AVLGear
+ 3.2.1.2,category2_price,$112.92
+ 3.2.2.2,category2_price,$198.00
+ 3.2.3.2,category2_price,$197.54
+ 3.2.4.2,category2_price,$197.00
+ 3.2.5.2,category2_price,Nan
+ 3.2.1.4,category2_rating_count,16920
+ 3.2.2.4,category2_rating_count,$8.75
+ 3.2.3.4,category2_rating_count,53617
+ 3.2.4.4,category2_rating_count,$24.95
+ 3.2.5.4,category2_rating_count,4281
+ 3.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 3.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4 aod-seller-rating-count-class
+ 3.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 3.2.4.3,category2_review,Nan
+ 3.2.5.3,category2_review,Nan
+ 4.1.1.1,category1_name,CAD Audio Condenser Microphone (AMS-E50)
+ 4.1.1.4,category1_price,$149.00
+ 4.1.1.2,category1_rating,190 ratings
+ 4.1.1.3,category1_review,a-icon a-icon-star a-star-4-5
+ 4.2.1.5,category2_description,98% positive over last 12 months
+ 4.2.10.5,category2_description,94% positive over last 12 months
+ 4.2.11.5,category2_description,84% positive over last 12 months
+ 4.2.12.5,category2_description,Nan
+ 4.2.13.5,category2_description,Nan
+ 4.2.2.5,category2_description,98% positive over last 12 months
+ 4.2.3.5,category2_description,95% positive over last 12 months
+ 4.2.4.5,category2_description,96% positive over last 12 months
+ 4.2.5.5,category2_description,97% positive over last 12 months
+ 4.2.6.5,category2_description,96% positive over last 12 months
+ 4.2.7.5,category2_description,99% positive over last 12 months
+ 4.2.8.5,category2_description,89% positive over last 12 months
+ 4.2.9.5,category2_description,89% positive over last 12 months
+ 4.2.1.1,category2_name,Amazon.com
+ 4.2.10.1,category2_name,BestPricesPeriod!
+ 4.2.11.1,category2_name,Pitbull Electronics
+ 4.2.12.1,category2_name,MusicStoreLive
+ 4.2.13.1,category2_name,AVLGear
+ 4.2.2.1,category2_name,Amazon.com
+ 4.2.3.1,category2_name,Amazon.com
+ 4.2.4.1,category2_name,Amazon.com
+ 4.2.5.1,category2_name,Focus Camera LLC
+ 4.2.6.1,category2_name,Bailey Brothers Music Company
+ 4.2.7.1,category2_name,Amazon.com
+ 4.2.8.1,category2_name,Amazon.com
+ 4.2.9.1,category2_name,Amazon.com
+ 4.2.1.2,category2_price,$148.98
+ 4.2.10.2,category2_price,$149.99
+ 4.2.11.2,category2_price,$149.99
+ 4.2.12.2,category2_price,$149.00
+ 4.2.13.2,category2_price,Nan
+ 4.2.2.2,category2_price,$149.00
+ 4.2.3.2,category2_price,$149.00
+ 4.2.4.2,category2_price,$149.00
+ 4.2.5.2,category2_price,$149.00
+ 4.2.6.2,category2_price,$149.00
+ 4.2.7.2,category2_price,$149.19
+ 4.2.8.2,category2_price,$149.99
+ 4.2.9.2,category2_price,$149.99
+ 4.2.1.4,category2_rating_count,1185
+ 4.2.10.4,category2_rating_count,2646
+ 4.2.11.4,category2_rating_count,4281
+ 4.2.12.4,category2_rating_count,Nan
+ 4.2.13.4,category2_rating_count,Nan
+ 4.2.2.4,category2_rating_count,2340
+ 4.2.3.4,category2_rating_count,15084
+ 4.2.4.4,category2_rating_count,24284
+ 4.2.5.4,category2_rating_count,109780
+ 4.2.6.4,category2_rating_count,1450
+ 4.2.7.4,category2_rating_count,2260
+ 4.2.8.4,category2_rating_count,844
+ 4.2.9.4,category2_rating_count,5125
+ 4.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 4.2.10.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 4.2.11.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 4.2.12.3,category2_review,Nan
+ 4.2.13.3,category2_review,Nan
+ 4.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 4.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 4.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 4.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 4.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 4.2.7.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 4.2.8.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 4.2.9.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 5.1.1.1,category1_name,Astatic 878HL-2 Omnidirectional Dynamic Desk Top Microphone with Locking Push to Talk Switch (CAD Audio)
+ 5.1.1.4,category1_price,$129.95
+ 5.1.1.2,category1_rating,33 ratings
+ 5.1.1.3,category1_review,a-icon a-icon-star a-star-4
+ 5.2.1.5,category2_description,76% positive over last 12 months
+ 5.2.10.5,category2_description,98% positive over last 12 months
+ 5.2.11.5,category2_description,Nan
+ 5.2.12.5,category2_description,84% positive over last 12 months
+ 5.2.13.5,category2_description,89% positive over last 12 months
+ 5.2.14.5,category2_description,87% positive over last 12 months
+ 5.2.2.5,category2_description,76% positive over last 12 months
+ 5.2.3.5,category2_description,91% positive over last 12 months
+ 5.2.4.5,category2_description,99% positive over last 12 months
+ 5.2.5.5,category2_description,92% positive over last 12 months
+ 5.2.6.5,category2_description,95% positive
+ 5.2.7.5,category2_description,93% positive
+ 5.2.8.5,category2_description,89% positive over last 12 months
+ 5.2.9.5,category2_description,94% positive over last 12 months
+ 5.2.1.1,category2_name,New In Box But Box Has Damage(no damage to microphone)
+ 5.2.10.1,category2_name,MusicStoreLive
+ 5.2.11.1,category2_name,M Z Photo
+ 5.2.12.1,category2_name,AVLGear
+ 5.2.13.1,category2_name,Casa Mila Inc
+ 5.2.14.1,category2_name,Consumer Supply Co
+ 5.2.2.1,category2_name,Quasar Enterprises
+ 5.2.3.1,category2_name,Quasar Enterprises
+ 5.2.4.1,category2_name,Guitar Audio
+ 5.2.5.1,category2_name,Amazon.com
+ 5.2.6.1,category2_name,Interstate Music
+ 5.2.7.1,category2_name,Big Llama
+ 5.2.8.1,category2_name,SoundEthics
+ 5.2.9.1,category2_name,Pitbull Electronics
+ 5.2.1.2,category2_price,$109.95
+ 5.2.10.2,category2_price,$149.99
+ 5.2.11.2,category2_price,$149.00
+ 5.2.12.2,category2_price,$176.93
+ 5.2.13.2,category2_price,$185.59
+ 5.2.14.2,category2_price,Nan
+ 5.2.2.2,category2_price,$128.95
+ 5.2.3.2,category2_price,$131.95
+ 5.2.4.2,category2_price,$149.00
+ 5.2.5.2,category2_price,$149.00
+ 5.2.6.2,category2_price,$149.00
+ 5.2.7.2,category2_price,$149.00
+ 5.2.8.2,category2_price,$149.99
+ 5.2.9.2,category2_price,$149.99
+ 5.2.1.4,category2_rating_count,156
+ 5.2.10.4,category2_rating_count,37577
+ 5.2.11.4,category2_rating_count,$24.95
+ 5.2.12.4,category2_rating_count,4281
+ 5.2.13.4,category2_rating_count,496
+ 5.2.14.4,category2_rating_count,538
+ 5.2.2.4,category2_rating_count,156
+ 5.2.3.4,category2_rating_count,6347
+ 5.2.4.4,category2_rating_count,2260
+ 5.2.5.4,category2_rating_count,7711
+ 5.2.6.4,category2_rating_count,22
+ 5.2.7.4,category2_rating_count,95
+ 5.2.8.4,category2_rating_count,5125
+ 5.2.9.4,category2_rating_count,2646
+ 5.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-4 aod-seller-rating-count-class
+ 5.2.10.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 5.2.11.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 5.2.12.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 5.2.13.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 5.2.14.3,category2_review,Nan
+ 5.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4 aod-seller-rating-count-class
+ 5.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 5.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 5.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 5.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 5.2.7.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 5.2.8.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 5.2.9.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 6.1.1.1,category1_name,"CAD PM1300 PodMaster™ SuperD usb Professional Broadcast / Podcasting Microphone with SuperD VOG Dynamic Capsule, supplied with Broadcast Boom Mic Stand"
+ 6.1.1.4,category1_price,Nan
+ 6.1.1.2,category1_rating,32 ratings
+ 6.1.1.3,category1_review,a-icon a-icon-star a-star-4-5
+ 6.2.1.5,category2_description,89% positive over last 12 months
+ 6.2.2.5,category2_description,96% positive over last 12 months
+ 6.2.3.5,category2_description,93% positive over last 12 months
+ 6.2.4.5,category2_description,84% positive over last 12 months
+ 6.2.5.5,category2_description,93% positive
+ 6.2.6.5,category2_description,94% positive over last 12 months
+ 6.2.7.5,category2_description,89% positive over last 12 months
+ 6.2.8.5,category2_description,88% positive
+ 6.2.1.1,category2_name,Casa Mila Inc
+ 6.2.2.1,category2_name,Amazon.com
+ 6.2.3.1,category2_name,GearTree
+ 6.2.4.1,category2_name,AVLGear
+ 6.2.5.1,category2_name,World Music Supply
+ 6.2.6.1,category2_name,MusicStoreLive
+ 6.2.7.1,category2_name,Pitbull Electronics
+ 6.2.8.1,category2_name,Dwave  Beauty
+ 6.2.1.2,category2_price,$124.34
+ 6.2.2.2,category2_price,Nan
+ 6.2.3.2,category2_price,Nan
+ 6.2.4.2,category2_price,Nan
+ 6.2.5.2,category2_price,Nan
+ 6.2.6.2,category2_price,Nan
+ 6.2.7.2,category2_price,Nan
+ 6.2.8.2,category2_price,Nan
+ 6.2.1.4,category2_rating_count,496
+ 6.2.2.4,category2_rating_count,24284
+ 6.2.3.4,category2_rating_count,21151
+ 6.2.4.4,category2_rating_count,4281
+ 6.2.5.4,category2_rating_count,297
+ 6.2.6.4,category2_rating_count,2646
+ 6.2.7.4,category2_rating_count,5125
+ 6.2.8.4,category2_rating_count,25
+ 6.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 6.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 6.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 6.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 6.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 6.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 6.2.7.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 6.2.8.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 7.1.1.1,category1_name,Astatic 631L Noise-Canceling Omnidirectional Dynamic Palmheld Microphone with Talk Switch
+ 7.1.1.4,category1_price,$99.00
+ 7.1.1.2,category1_rating,6 ratings
+ 7.1.1.3,category1_review,a-icon a-icon-star a-star-4
+ 7.2.1.5,category2_description,99% positive over last 12 months
+ 7.2.2.5,category2_description,92% positive over last 12 months
+ 7.2.3.5,category2_description,90% positive over last 12 months
+ 7.2.4.5,category2_description,87% positive over last 12 months
+ 7.2.5.5,category2_description,84% positive over last 12 months
+ 7.2.1.1,category2_name,Amazon.com
+ 7.2.2.1,category2_name,Interstate Music
+ 7.2.3.1,category2_name,Full Compass Systems
+ 7.2.4.1,category2_name,Consumer Supply Co
+ 7.2.5.1,category2_name,AVLGear
+ 7.2.1.2,category2_price,$107.29
+ 7.2.2.2,category2_price,Nan
+ 7.2.3.2,category2_price,Nan
+ 7.2.4.2,category2_price,Nan
+ 7.2.5.2,category2_price,Nan
+ 7.2.1.4,category2_rating_count,2260
+ 7.2.2.4,category2_rating_count,7711
+ 7.2.3.4,category2_rating_count,9116
+ 7.2.4.4,category2_rating_count,538
+ 7.2.5.4,category2_rating_count,4281
+ 7.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 7.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 7.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 7.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 7.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 8.1.1.1,category1_name,CAD Audio Wireless System (1600VP)
+ 8.1.1.4,category1_price,$299.00
+ 8.1.1.2,category1_rating,Nan
+ 8.1.1.3,category1_review,Nan
+ 8.2.1.5,category2_description,85% positive over last 12 months
+ 8.2.2.5,category2_description,93% positive over last 12 months
+ 8.2.3.5,category2_description,93% positive over last 12 months
+ 8.2.4.5,category2_description,92% positive over last 12 months
+ 8.2.5.5,category2_description,95% positive over last 12 months
+ 8.2.6.5,category2_description,Nan
+ 8.2.1.1,category2_name,CAD Audio Wireless System (1600VP)
+ 8.2.2.1,category2_name,Square Cable
+ 8.2.3.1,category2_name,Total Music Source
+ 8.2.4.1,category2_name,GearTree
+ 8.2.5.1,category2_name,Interstate Music
+ 8.2.6.1,category2_name,Beach Camera Same Day Shipping
+ 8.2.1.2,category2_price,$298.95
+ 8.2.2.2,category2_price,$299.00
+ 8.2.3.2,category2_price,$299.00
+ 8.2.4.2,category2_price,$299.99
+ 8.2.5.2,category2_price,$437.50
+ 8.2.6.2,category2_price,Nan
+ 8.2.1.4,category2_rating_count,483
+ 8.2.2.4,category2_rating_count,12278
+ 8.2.3.4,category2_rating_count,21151
+ 8.2.4.4,category2_rating_count,7711
+ 8.2.5.4,category2_rating_count,347222
+ 8.2.6.4,category2_rating_count,Nan
+ 8.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 8.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 8.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 8.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 8.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 8.2.6.3,category2_review,Nan
+ 9.1.1.1,category1_name,CAD Audio GXLD2QM Digital Frequency Agile Dual HH Wireless Microphone System with USB and TRS Podcast and Content Creator ready adapters
+ 9.1.1.4,category1_price,$69.95
+ 9.1.1.2,category1_rating,Nan
+ 9.1.1.3,category1_review,Nan
+ 9.2.1.5,category2_description,99% positive over last 12 months
+ 9.2.2.5,category2_description,92% positive over last 12 months
+ 9.2.3.5,category2_description,94% positive over last 12 months
+ 9.2.4.5,category2_description,89% positive over last 12 months
+ 9.2.5.5,category2_description,84% positive over last 12 months
+ 9.2.6.5,category2_description,89% positive over last 12 months
+ 9.2.7.5,category2_description,Nan
+ 9.2.1.1,category2_name,CAD Audio GXLD2QM Digital Frequency Agile Dual HH Wireless Microphone System with USB and TRS Podcast and Content Creator ready adapters
+ 9.2.2.1,category2_name,Photo4Less
+ 9.2.3.1,category2_name,Interstate Music
+ 9.2.4.1,category2_name,MusicStoreLive
+ 9.2.5.1,category2_name,Pitbull Electronics
+ 9.2.6.1,category2_name,AVLGear
+ 9.2.7.1,category2_name,First Harmonic Limited
+ 9.2.1.2,category2_price,$129.98
+ 9.2.2.2,category2_price,Nan
+ 9.2.3.2,category2_price,Nan
+ 9.2.4.2,category2_price,Nan
+ 9.2.5.2,category2_price,Nan
+ 9.2.6.2,category2_price,Nan
+ 9.2.7.2,category2_price,Nan
+ 9.2.1.4,category2_rating_count,38240
+ 9.2.2.4,category2_rating_count,7711
+ 9.2.3.4,category2_rating_count,2646
+ 9.2.4.4,category2_rating_count,5125
+ 9.2.5.4,category2_rating_count,4281
+ 9.2.6.4,category2_rating_count,302
+ 9.2.7.4,category2_rating_count,Nan
+ 9.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 9.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 9.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 9.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 9.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 9.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 9.2.7.3,category2_review,Nan
+ 10.1.1.1,category1_name,"CAD Audio Studio Headphones, Black (MH100)"
+ 10.1.1.4,category1_price,$19.00
+ 10.1.1.2,category1_rating,57 ratings
+ 10.1.1.3,category1_review,a-icon a-icon-star a-star-4
+ 10.2.1.5,category2_description,84% positive over last 12 months
+ 10.2.10.5,category2_description,90% positive over last 12 months
+ 10.2.2.5,category2_description,100% positive over last 12 months
+ 10.2.3.5,category2_description,98% positive over last 12 months
+ 10.2.4.5,category2_description,89% positive over last 12 months
+ 10.2.5.5,category2_description,72% positive over last 12 months
+ 10.2.6.5,category2_description,Nan
+ 10.2.7.5,category2_description,84% positive over last 12 months
+ 10.2.8.5,category2_description,89% positive over last 12 months
+ 10.2.9.5,category2_description,87% positive over last 12 months
+ 10.2.1.1,category2_name,AVLGear
+ 10.2.10.1,category2_name,Nan
+ 10.2.2.1,category2_name,Echo Valley Trading LLC
+ 10.2.3.1,category2_name,eStudioStar
+ 10.2.4.1,category2_name,"SETI, Inc."
+ 10.2.5.1,category2_name,Rover Mall
+ 10.2.6.1,category2_name,Sims Music
+ 10.2.7.1,category2_name,Casa Mila Inc
+ 10.2.8.1,category2_name,Consumer Supply Co
+ 10.2.9.1,category2_name,American Shopping
+ 10.2.1.2,category2_price,Nan
+ 10.2.10.2,category2_price,Nan
+ 10.2.2.2,category2_price,Nan
+ 10.2.3.2,category2_price,Nan
+ 10.2.4.2,category2_price,Nan
+ 10.2.5.2,category2_price,Nan
+ 10.2.6.2,category2_price,Nan
+ 10.2.7.2,category2_price,Nan
+ 10.2.8.2,category2_price,Nan
+ 10.2.9.2,category2_price,Nan
+ 10.2.1.4,category2_rating_count,4281
+ 10.2.10.4,category2_rating_count,670
+ 10.2.2.4,category2_rating_count,158
+ 10.2.3.4,category2_rating_count,6728
+ 10.2.4.4,category2_rating_count,298
+ 10.2.5.4,category2_rating_count,37577
+ 10.2.6.4,category2_rating_count,$9.99
+ 10.2.7.4,category2_rating_count,120
+ 10.2.8.4,category2_rating_count,496
+ 10.2.9.4,category2_rating_count,538
+ 10.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 10.2.10.3,category2_review,Nan
+ 10.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 10.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 10.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 10.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-4 aod-seller-rating-count-class
+ 10.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 10.2.7.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 10.2.8.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 10.2.9.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 11.1.1.1,category1_name,"CAD Audio, 2 GXLD2HBAH Digital Wireless Combo Microphone System, Handheld and Bodypack, AH Frequency Band (AMS-GXLD2-HBAH)"
+ 11.1.1.4,category1_price,$202.24
+ 11.1.1.2,category1_rating,2 ratings
+ 11.1.1.3,category1_review,a-icon a-icon-star a-star-4
+ 11.2.1.5,category2_description,91% positive over last 12 months
+ 11.2.2.5,category2_description,92% positive over last 12 months
+ 11.2.3.5,category2_description,94% positive over last 12 months
+ 11.2.4.5,category2_description,89% positive over last 12 months
+ 11.2.5.5,category2_description,88% positive over last 12 months
+ 11.2.6.5,category2_description,84% positive over last 12 months
+ 11.2.1.1,category2_name,Guitar Audio
+ 11.2.2.1,category2_name,Interstate Music
+ 11.2.3.1,category2_name,MusicStoreLive
+ 11.2.4.1,category2_name,Pitbull Electronics
+ 11.2.5.1,category2_name,Capital Music Gear
+ 11.2.6.1,category2_name,AVLGear
+ 11.2.1.2,category2_price,$199.00
+ 11.2.2.2,category2_price,$199.99
+ 11.2.3.2,category2_price,$199.99
+ 11.2.4.2,category2_price,$199.99
+ 11.2.5.2,category2_price,$199.99
+ 11.2.6.2,category2_price,$199.00
+ 11.2.1.4,category2_rating_count,6347
+ 11.2.2.4,category2_rating_count,7711
+ 11.2.3.4,category2_rating_count,2646
+ 11.2.4.4,category2_rating_count,5125
+ 11.2.5.4,category2_rating_count,958
+ 11.2.6.4,category2_rating_count,4281
+ 11.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 11.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 11.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 11.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 11.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 11.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 12.1.1.1,category1_name,CAD Audio GXL1200 Cardioid Condenser Microphone
+ 12.1.1.4,category1_price,$69.06
+ 12.1.1.2,category1_rating,70 ratings
+ 12.1.1.3,category1_review,a-icon a-icon-star a-star-4
+ 12.2.1.5,category2_description,99% positive over last 12 months
+ 12.2.2.5,category2_description,93% positive over last 12 months
+ 12.2.3.5,category2_description,89% positive over last 12 months
+ 12.2.4.5,category2_description,94% positive over last 12 months
+ 12.2.5.5,category2_description,91% positive over last 12 months
+ 12.2.6.5,category2_description,84% positive over last 12 months
+ 12.2.1.1,category2_name,Amazon.com
+ 12.2.2.1,category2_name,8th Street Music
+ 12.2.3.1,category2_name,Pitbull Electronics
+ 12.2.4.1,category2_name,MusicStoreLive
+ 12.2.5.1,category2_name,Guitar Audio
+ 12.2.6.1,category2_name,AVLGear
+ 12.2.1.2,category2_price,Nan
+ 12.2.2.2,category2_price,Nan
+ 12.2.3.2,category2_price,Nan
+ 12.2.4.2,category2_price,Nan
+ 12.2.5.2,category2_price,Nan
+ 12.2.6.2,category2_price,Nan
+ 12.2.1.4,category2_rating_count,38240
+ 12.2.2.4,category2_rating_count,22085
+ 12.2.3.4,category2_rating_count,5125
+ 12.2.4.4,category2_rating_count,2646
+ 12.2.5.4,category2_rating_count,6347
+ 12.2.6.4,category2_rating_count,4281
+ 12.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 12.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 12.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 12.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 12.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 12.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 13.1.1.1,category1_name,"Astatic 915B 15"" Cardioid Condenser Mini Gooseneck Microphone - Equitek Capsule for Extended Frequency Response"
+ 13.1.1.4,category1_price,Nan
+ 13.1.1.2,category1_rating,2 ratings
+ 13.1.1.3,category1_review,a-icon a-icon-star a-star-4
+ 13.2.1.5,category2_description,87% positive over last 12 months
+ 13.2.2.5,category2_description,84% positive over last 12 months
+ 13.2.1.1,category2_name,Consumer Supply Co
+ 13.2.2.1,category2_name,AVLGear
+ 13.2.1.2,category2_price,Nan
+ 13.2.2.2,category2_price,Nan
+ 13.2.1.4,category2_rating_count,538
+ 13.2.2.4,category2_rating_count,4281
+ 13.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 13.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 14.1.1.1,category1_name,"CAD Audio Studio Headphones, Black (MH210)"
+ 14.1.1.4,category1_price,$58.51
+ 14.1.1.2,category1_rating,57 ratings
+ 14.1.1.3,category1_review,a-icon a-icon-star a-star-4
+ 14.2.1.5,category2_description,85% positive over last 12 months
+ 14.2.2.5,category2_description,Nan
+ 14.2.3.5,category2_description,84% positive over last 12 months
+ 14.2.4.5,category2_description,89% positive over last 12 months
+ 14.2.5.5,category2_description,94% positive over last 12 months
+ 14.2.6.5,category2_description,92% positive over last 12 months
+ 14.2.7.5,category2_description,91% positive over last 12 months
+ 14.2.8.5,category2_description,84% positive over last 12 months
+ 14.2.1.1,category2_name,Yandas Music & Pro Audio
+ 14.2.2.1,category2_name,Sims Music
+ 14.2.3.1,category2_name,Pitbull Electronics
+ 14.2.4.1,category2_name,MusicStoreLive
+ 14.2.5.1,category2_name,Adorama
+ 14.2.6.1,category2_name,Guitar Audio
+ 14.2.7.1,category2_name,AVLGear
+ 14.2.8.1,category2_name,Nan
+ 14.2.1.2,category2_price,Nan
+ 14.2.2.2,category2_price,Nan
+ 14.2.3.2,category2_price,Nan
+ 14.2.4.2,category2_price,Nan
+ 14.2.5.2,category2_price,Nan
+ 14.2.6.2,category2_price,Nan
+ 14.2.7.2,category2_price,Nan
+ 14.2.8.2,category2_price,Nan
+ 14.2.1.4,category2_rating_count,269
+ 14.2.2.4,category2_rating_count,$9.99
+ 14.2.3.4,category2_rating_count,120
+ 14.2.4.4,category2_rating_count,5125
+ 14.2.5.4,category2_rating_count,2646
+ 14.2.6.4,category2_rating_count,573346
+ 14.2.7.4,category2_rating_count,6347
+ 14.2.8.4,category2_rating_count,4281
+ 14.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 14.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 14.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 14.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 14.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 14.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 14.2.7.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 14.2.8.3,category2_review,Nan
+ 15.1.1.1,category1_name,CAD Audio StageSelect WX1610 Wireless Bodypack System with E19 Earset Microphone
+ 15.1.1.4,category1_price,$341.50
+ 15.1.1.2,category1_rating,16 ratings
+ 15.1.1.3,category1_review,a-icon a-icon-star a-star-4-5
+ 15.2.1.5,category2_description,84% positive over last 12 months
+ 15.2.2.5,category2_description,77% positive over last 12 months
+ 15.2.1.1,category2_name,AVLGear
+ 15.2.2.1,category2_name,Mega Big Box
+ 15.2.1.2,category2_price,$299.00
+ 15.2.2.2,category2_price,$341.50
+ 15.2.1.4,category2_rating_count,4281
+ 15.2.2.4,category2_rating_count,568
+ 15.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 15.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4 aod-seller-rating-count-class
+ 16.1.1.1,category1_name,"Astatic AMC105-2-19 19"" Omnidirectional Dynamic Gooseneck Microphone with 2 DPDT Push-to-Talk Switch - Gooseneck, 2 3/4 inch Flange (6' Cable)"
+ 16.1.1.4,category1_price,$100.34
+ 16.1.1.2,category1_rating,16 ratings
+ 16.1.1.3,category1_review,a-icon a-icon-star a-star-4-5
+ 16.2.1.5,category2_description,99% positive over last 12 months
+ 16.2.2.5,category2_description,100% positive over last 12 months
+ 16.2.3.5,category2_description,98% positive over last 12 months
+ 16.2.4.5,category2_description,57% positive over last 12 months
+ 16.2.5.5,category2_description,83% positive over last 12 months
+ 16.2.6.5,category2_description,85% positive over last 12 months
+ 16.2.7.5,category2_description,89% positive over last 12 months
+ 16.2.8.5,category2_description,87% positive over last 12 months
+ 16.2.9.5,category2_description,84% positive over last 12 months
+ 16.2.1.1,category2_name,Amazon.com
+ 16.2.2.1,category2_name,Amazon.com
+ 16.2.3.1,category2_name,Amazon.com
+ 16.2.4.1,category2_name,Neobits_
+ 16.2.5.1,category2_name,Home Essentials ✅
+ 16.2.6.1,category2_name,BeachAudio
+ 16.2.7.1,category2_name,Casa Mila Inc
+ 16.2.8.1,category2_name,Consumer Supply Co
+ 16.2.9.1,category2_name,AVLGear
+ 16.2.1.2,category2_price,$112.12
+ 16.2.2.2,category2_price,$119.99
+ 16.2.3.2,category2_price,$119.00
+ 16.2.4.2,category2_price,$138.06
+ 16.2.5.2,category2_price,$147.54
+ 16.2.6.2,category2_price,$147.92
+ 16.2.7.2,category2_price,$150.74
+ 16.2.8.2,category2_price,$139.00
+ 16.2.9.2,category2_price,Nan
+ 16.2.1.4,category2_rating_count,2260
+ 16.2.2.4,category2_rating_count,446911
+ 16.2.3.4,category2_rating_count,37577
+ 16.2.4.4,category2_rating_count,581
+ 16.2.5.4,category2_rating_count,16920
+ 16.2.6.4,category2_rating_count,186332
+ 16.2.7.4,category2_rating_count,496
+ 16.2.8.4,category2_rating_count,538
+ 16.2.9.4,category2_rating_count,4281
+ 16.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 16.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 16.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 16.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-3-5 aod-seller-rating-count-class
+ 16.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 16.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 16.2.7.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 16.2.8.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 16.2.9.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 17.1.1.1,category1_name,"CAD Audio GXLD2BBAI Digital Dual Wireless Bodypack System, AI Frequency Band"
+ 17.1.1.4,category1_price,$199.99
+ 17.1.1.2,category1_rating,Nan
+ 17.1.1.3,category1_review,Nan
+ 17.2.1.5,category2_description,93% positive over last 12 months
+ 17.2.2.5,category2_description,91% positive over last 12 months
+ 17.2.3.5,category2_description,100% positive over last 12 months
+ 17.2.4.5,category2_description,92% positive over last 12 months
+ 17.2.5.5,category2_description,92% positive over last 12 months
+ 17.2.6.5,category2_description,88% positive over last 12 months
+ 17.2.7.5,category2_description,84% positive over last 12 months
+ 17.2.8.5,category2_description,Nan
+ 17.2.1.1,category2_name,"CAD Audio GXLD2BBAI Digital Dual Wireless Bodypack System, AI Frequency Band"
+ 17.2.2.1,category2_name,GearTree
+ 17.2.3.1,category2_name,Guitar Audio
+ 17.2.4.1,category2_name,Amazon.com
+ 17.2.5.1,category2_name,Interstate Music
+ 17.2.6.1,category2_name,Adorama
+ 17.2.7.1,category2_name,Capital Music Gear
+ 17.2.8.1,category2_name,AVLGear
+ 17.2.1.2,category2_price,$199.00
+ 17.2.2.2,category2_price,$199.00
+ 17.2.3.2,category2_price,$199.99
+ 17.2.4.2,category2_price,$199.99
+ 17.2.5.2,category2_price,$199.99
+ 17.2.6.2,category2_price,$199.99
+ 17.2.7.2,category2_price,$199.00
+ 17.2.8.2,category2_price,Nan
+ 17.2.1.4,category2_rating_count,21151
+ 17.2.2.4,category2_rating_count,6347
+ 17.2.3.4,category2_rating_count,12020
+ 17.2.4.4,category2_rating_count,7711
+ 17.2.5.4,category2_rating_count,573346
+ 17.2.6.4,category2_rating_count,958
+ 17.2.7.4,category2_rating_count,4281
+ 17.2.8.4,category2_rating_count,Nan
+ 17.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 17.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 17.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 17.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 17.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 17.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 17.2.7.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 17.2.8.3,category2_review,Nan
+ 18.1.1.1,category1_name,CAD PM4100 PodMaster BOOM Broadcast/Podcast Boom Arm Mic Stand
+ 18.1.1.4,category1_price,$19.99
+ 18.1.1.2,category1_rating,32 ratings
+ 18.1.1.3,category1_review,a-icon a-icon-star a-star-4-5
+ 18.2.1.5,category2_description,94% positive over last 12 months
+ 18.2.2.5,category2_description,90% positive over last 12 months
+ 18.2.3.5,category2_description,Nan
+ 18.2.4.5,category2_description,Nan
+ 18.2.1.1,category2_name,MusicStoreLive
+ 18.2.2.1,category2_name,Amazon.com
+ 18.2.3.1,category2_name,Amazon.com
+ 18.2.4.1,category2_name,ALAMO MUSIC
+ 18.2.1.2,category2_price,Nan
+ 18.2.2.2,category2_price,Nan
+ 18.2.3.2,category2_price,Nan
+ 18.2.4.2,category2_price,Nan
+ 18.2.1.4,category2_rating_count,2646
+ 18.2.2.4,category2_rating_count,125
+ 18.2.3.4,category2_rating_count,Nan
+ 18.2.4.4,category2_rating_count,Nan
+ 18.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 18.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 18.2.3.3,category2_review,Nan
+ 18.2.4.3,category2_review,Nan
+ 19.1.1.1,category1_name,"Astatic AMC105SNO-19 19"" Omnidirectional Dynamic Gooseneck Microphone with 1 DPDT Push-to-Talk Switch - Gooseneck, 2 3/4 inch Flange (6' Cable)"
+ 19.1.1.4,category1_price,$129.99
+ 19.1.1.2,category1_rating,16 ratings
+ 19.1.1.3,category1_review,a-icon a-icon-star a-star-4-5
+ 19.2.1.5,category2_description,98% positive over last 12 months
+ 19.2.2.5,category2_description,90% positive over last 12 months
+ 19.2.3.5,category2_description,84% positive over last 12 months
+ 19.2.4.5,category2_description,98% positive over last 12 months
+ 19.2.5.5,category2_description,87% positive over last 12 months
+ 19.2.1.1,category2_name,Amazon.com
+ 19.2.2.1,category2_name,Full Compass Systems
+ 19.2.3.1,category2_name,AVLGear
+ 19.2.4.1,category2_name,M Z Photo
+ 19.2.5.1,category2_name,Consumer Supply Co
+ 19.2.1.2,category2_price,$129.99
+ 19.2.2.2,category2_price,$129.99
+ 19.2.3.2,category2_price,$129.00
+ 19.2.4.2,category2_price,$154.00
+ 19.2.5.2,category2_price,$185.85
+ 19.2.1.4,category2_rating_count,37577
+ 19.2.2.4,category2_rating_count,9116
+ 19.2.3.4,category2_rating_count,4281
+ 19.2.4.4,category2_rating_count,37577
+ 19.2.5.4,category2_rating_count,538
+ 19.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 19.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 19.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 19.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 19.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 20.1.1.1,category1_name,CAD Audio CAD M179 Variable-Pattern Condenser Microphone (M179)
+ 20.1.1.4,category1_price,$199.99
+ 20.1.1.2,category1_rating,190 ratings
+ 20.1.1.3,category1_review,a-icon a-icon-star a-star-4-5
+ 20.2.1.5,category2_description,100% positive over last 12 months
+ 20.2.10.5,category2_description,100% positive over last 12 months
+ 20.2.11.5,category2_description,84% positive over last 12 months
+ 20.2.12.5,category2_description,72% positive over last 12 months
+ 20.2.13.5,category2_description,72% positive over last 12 months
+ 20.2.14.5,category2_description,Nan
+ 20.2.2.5,category2_description,84% positive over last 12 months
+ 20.2.3.5,category2_description,97% positive over last 12 months
+ 20.2.4.5,category2_description,96% positive over last 12 months
+ 20.2.5.5,category2_description,95% positive over last 12 months
+ 20.2.6.5,category2_description,94% positive over last 12 months
+ 20.2.7.5,category2_description,89% positive over last 12 months
+ 20.2.8.5,category2_description,99% positive over last 12 months
+ 20.2.9.5,category2_description,94% positive
+ 20.2.1.1,category2_name,"Item is in excellent condition, outer box is torn on 1 side from a label"
+ 20.2.10.1,category2_name,Front End Audio
+ 20.2.11.1,category2_name,Backwoods Guitar LLC
+ 20.2.12.1,category2_name,AVLGear
+ 20.2.13.1,category2_name,Rover Mall
+ 20.2.14.1,category2_name,Rover Mall
+ 20.2.2.1,category2_name,Amazon.com
+ 20.2.3.1,category2_name,Amazon.com
+ 20.2.4.1,category2_name,DigitalDJGear
+ 20.2.5.1,category2_name,K&M Camera Since 1976
+ 20.2.6.1,category2_name,GuitarTruck
+ 20.2.7.1,category2_name,MusicStoreLive
+ 20.2.8.1,category2_name,Pitbull Electronics
+ 20.2.9.1,category2_name,Amazon.com
+ 20.2.1.2,category2_price,$174.00
+ 20.2.10.2,category2_price,$199.00
+ 20.2.11.2,category2_price,$199.00
+ 20.2.12.2,category2_price,$249.95
+ 20.2.13.2,category2_price,$259.95
+ 20.2.14.2,category2_price,Nan
+ 20.2.2.2,category2_price,$199.00
+ 20.2.3.2,category2_price,$199.00
+ 20.2.4.2,category2_price,$199.00
+ 20.2.5.2,category2_price,$199.99
+ 20.2.6.2,category2_price,$199.99
+ 20.2.7.2,category2_price,$199.99
+ 20.2.8.2,category2_price,$199.99
+ 20.2.9.2,category2_price,$199.00
+ 20.2.1.4,category2_rating_count,688
+ 20.2.10.4,category2_rating_count,4
+ 20.2.11.4,category2_rating_count,4281
+ 20.2.12.4,category2_rating_count,37577
+ 20.2.13.4,category2_rating_count,37577
+ 20.2.14.4,category2_rating_count,Nan
+ 20.2.2.4,category2_rating_count,4281
+ 20.2.3.4,category2_rating_count,1939
+ 20.2.4.4,category2_rating_count,24284
+ 20.2.5.4,category2_rating_count,324
+ 20.2.6.4,category2_rating_count,2646
+ 20.2.7.4,category2_rating_count,5125
+ 20.2.8.4,category2_rating_count,2260
+ 20.2.9.4,category2_rating_count,846
+ 20.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 20.2.10.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 20.2.11.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 20.2.12.3,category2_review,a-icon a-icon-star-mini a-star-mini-4 aod-seller-rating-count-class
+ 20.2.13.3,category2_review,a-icon a-icon-star-mini a-star-mini-4 aod-seller-rating-count-class
+ 20.2.14.3,category2_review,Nan
+ 20.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 20.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 20.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 20.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 20.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 20.2.7.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 20.2.8.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 20.2.9.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 21.1.1.1,category1_name,"CAD Audio GXL1800SP Studio Pack with GXL1800 Side Address & GLX800 Small Diaphragm Mic - Perfect for Studio, Podcasting & Streaming"
+ 21.1.1.4,category1_price,Nan
+ 21.1.1.2,category1_rating,406 ratings
+ 21.1.1.3,category1_review,a-icon a-icon-star a-star-4-5
+ 21.2.1.5,category2_description,100% positive over last 12 months
+ 21.2.10.5,category2_description,Nan
+ 21.2.11.5,category2_description,88% positive over last 12 months
+ 21.2.12.5,category2_description,87% positive over last 12 months
+ 21.2.13.5,category2_description,84% positive over last 12 months
+ 21.2.14.5,category2_description,90% positive over last 12 months
+ 21.2.15.5,category2_description,88% positive over last 12 months
+ 21.2.2.5,category2_description,89% positive over last 12 months
+ 21.2.3.5,category2_description,99% positive over last 12 months
+ 21.2.4.5,category2_description,96% positive over last 12 months
+ 21.2.5.5,category2_description,93% positive over last 12 months
+ 21.2.6.5,category2_description,92% positive over last 12 months
+ 21.2.7.5,category2_description,97% positive over last 12 months
+ 21.2.8.5,category2_description,95% positive over last 12 months
+ 21.2.9.5,category2_description,89% positive over last 12 months
+ 21.2.1.1,category2_name,Echo Valley Trading LLC
+ 21.2.10.1,category2_name,Sole Source AV Supply
+ 21.2.11.1,category2_name,Consumer Supply Co
+ 21.2.12.1,category2_name,AVLGear
+ 21.2.13.1,category2_name,American Shopping
+ 21.2.14.1,category2_name,Capital Music Gear
+ 21.2.15.1,category2_name,Nan
+ 21.2.2.1,category2_name,"SETI, Inc."
+ 21.2.3.1,category2_name,Photo4Less
+ 21.2.4.1,category2_name,Amazon.com
+ 21.2.5.1,category2_name,GearTree
+ 21.2.6.1,category2_name,Interstate Music
+ 21.2.7.1,category2_name,Focus Camera LLC
+ 21.2.8.1,category2_name,GuitarTruck
+ 21.2.9.1,category2_name,Casa Mila Inc
+ 21.2.1.2,category2_price,$109.99
+ 21.2.10.2,category2_price,Nan
+ 21.2.11.2,category2_price,Nan
+ 21.2.12.2,category2_price,Nan
+ 21.2.13.2,category2_price,Nan
+ 21.2.14.2,category2_price,Nan
+ 21.2.15.2,category2_price,Nan
+ 21.2.2.2,category2_price,Nan
+ 21.2.3.2,category2_price,Nan
+ 21.2.4.2,category2_price,Nan
+ 21.2.5.2,category2_price,Nan
+ 21.2.6.2,category2_price,Nan
+ 21.2.7.2,category2_price,Nan
+ 21.2.8.2,category2_price,Nan
+ 21.2.9.2,category2_price,Nan
+ 21.2.1.4,category2_rating_count,158
+ 21.2.10.4,category2_rating_count,$14.63
+ 21.2.11.4,category2_rating_count,401
+ 21.2.12.4,category2_rating_count,538
+ 21.2.13.4,category2_rating_count,4281
+ 21.2.14.4,category2_rating_count,670
+ 21.2.15.4,category2_rating_count,958
+ 21.2.2.4,category2_rating_count,298
+ 21.2.3.4,category2_rating_count,38240
+ 21.2.4.4,category2_rating_count,24284
+ 21.2.5.4,category2_rating_count,21151
+ 21.2.6.4,category2_rating_count,7711
+ 21.2.7.4,category2_rating_count,109780
+ 21.2.8.4,category2_rating_count,324
+ 21.2.9.4,category2_rating_count,496
+ 21.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 21.2.10.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 21.2.11.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 21.2.12.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 21.2.13.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 21.2.14.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 21.2.15.3,category2_review,Nan
+ 21.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 21.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 21.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 21.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 21.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 21.2.7.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 21.2.8.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 21.2.9.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 22.1.1.1,category1_name,CAD Audio CADLive A77 Large Diaphragm Supercardioid Dynamic Microphone
+ 22.1.1.4,category1_price,$149.00
+ 22.1.1.2,category1_rating,22 ratings
+ 22.1.1.3,category1_review,a-icon a-icon-star a-star-4-5
+ 22.2.1.5,category2_description,99% positive over last 12 months
+ 22.2.2.5,category2_description,98% positive over last 12 months
+ 22.2.3.5,category2_description,99% positive over last 12 months
+ 22.2.4.5,category2_description,84% positive over last 12 months
+ 22.2.5.5,category2_description,72% positive over last 12 months
+ 22.2.6.5,category2_description,85% positive over last 12 months
+ 22.2.1.1,category2_name,Amazon.com
+ 22.2.2.1,category2_name,Amazon.com
+ 22.2.3.1,category2_name,Photo4Less
+ 22.2.4.1,category2_name,AVLGear
+ 22.2.5.1,category2_name,Rover Mall
+ 22.2.6.1,category2_name,Yandas Music & Pro Audio
+ 22.2.1.2,category2_price,$149.00
+ 22.2.2.2,category2_price,$149.00
+ 22.2.3.2,category2_price,$149.00
+ 22.2.4.2,category2_price,$149.00
+ 22.2.5.2,category2_price,$258.96
+ 22.2.6.2,category2_price,$273.89
+ 22.2.1.4,category2_rating_count,38240
+ 22.2.2.4,category2_rating_count,80510
+ 22.2.3.4,category2_rating_count,38240
+ 22.2.4.4,category2_rating_count,4281
+ 22.2.5.4,category2_rating_count,37577
+ 22.2.6.4,category2_rating_count,269
+ 22.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 22.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 22.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 22.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 22.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-4 aod-seller-rating-count-class
+ 22.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 23.1.1.1,category1_name,CAD Audio VoxPop 6” Pop Filter on 14” Gooseneck
+ 23.1.1.4,category1_price,$11.99
+ 23.1.1.2,category1_rating,1 rating
+ 23.1.1.3,category1_review,a-icon a-icon-star a-star-5
+ 23.2.1.5,category2_description,99% positive over last 12 months
+ 23.2.10.5,category2_description,Nan
+ 23.2.11.5,category2_description,Nan
+ 23.2.2.5,category2_description,98% positive over last 12 months
+ 23.2.3.5,category2_description,99% positive over last 12 months
+ 23.2.4.5,category2_description,94% positive over last 12 months
+ 23.2.5.5,category2_description,89% positive over last 12 months
+ 23.2.6.5,category2_description,72% positive over last 12 months
+ 23.2.7.5,category2_description,85% positive over last 12 months
+ 23.2.8.5,category2_description,95% positive over last 12 months
+ 23.2.9.5,category2_description,92% positive over last 12 months
+ 23.2.1.1,category2_name,Amazon.com
+ 23.2.10.1,category2_name,GuitarTruck
+ 23.2.11.1,category2_name,Interstate Music
+ 23.2.2.1,category2_name,Mugan_Music_Group
+ 23.2.3.1,category2_name,Circuit  City
+ 23.2.4.1,category2_name,MusicStoreLive
+ 23.2.5.1,category2_name,Pitbull Electronics
+ 23.2.6.1,category2_name,Rover Mall
+ 23.2.7.1,category2_name,Yandas Music & Pro Audio
+ 23.2.8.1,category2_name,Amazon.com
+ 23.2.9.1,category2_name,Amazon.com
+ 23.2.1.2,category2_price,Nan
+ 23.2.10.2,category2_price,Nan
+ 23.2.11.2,category2_price,Nan
+ 23.2.2.2,category2_price,Nan
+ 23.2.3.2,category2_price,Nan
+ 23.2.4.2,category2_price,Nan
+ 23.2.5.2,category2_price,Nan
+ 23.2.6.2,category2_price,Nan
+ 23.2.7.2,category2_price,Nan
+ 23.2.8.2,category2_price,Nan
+ 23.2.9.2,category2_price,Nan
+ 23.2.1.4,category2_rating_count,1636
+ 23.2.10.4,category2_rating_count,Nan
+ 23.2.11.4,category2_rating_count,Nan
+ 23.2.2.4,category2_rating_count,2340
+ 23.2.3.4,category2_rating_count,6104
+ 23.2.4.4,category2_rating_count,2646
+ 23.2.5.4,category2_rating_count,5125
+ 23.2.6.4,category2_rating_count,37577
+ 23.2.7.4,category2_rating_count,269
+ 23.2.8.4,category2_rating_count,324
+ 23.2.9.4,category2_rating_count,7711
+ 23.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 23.2.10.3,category2_review,Nan
+ 23.2.11.3,category2_review,Nan
+ 23.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 23.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 23.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 23.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 23.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-4 aod-seller-rating-count-class
+ 23.2.7.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 23.2.8.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 23.2.9.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 24.1.1.1,category1_name,"CAD Audio Condenser Microphone, 1 Count (AMS-C92)"
+ 24.1.1.4,category1_price,$99.00
+ 24.1.1.2,category1_rating,Nan
+ 24.1.1.3,category1_review,Nan
+ 24.2.1.5,category2_description,95% positive over last 12 months
+ 24.2.2.5,category2_description,93% positive
+ 24.2.3.5,category2_description,89% positive over last 12 months
+ 24.2.4.5,category2_description,94% positive over last 12 months
+ 24.2.5.5,category2_description,93% positive over last 12 months
+ 24.2.6.5,category2_description,85% positive over last 12 months
+ 24.2.7.5,category2_description,84% positive over last 12 months
+ 24.2.8.5,category2_description,92% positive over last 12 months
+ 24.2.9.5,category2_description,Nan
+ 24.2.1.1,category2_name,"CAD Audio Condenser Microphone, 1 Count (AMS-C92)"
+ 24.2.2.1,category2_name,GuitarTruck
+ 24.2.3.1,category2_name,World Music Supply
+ 24.2.4.1,category2_name,Pitbull Electronics
+ 24.2.5.1,category2_name,MusicStoreLive
+ 24.2.6.1,category2_name,Marmalade USA
+ 24.2.7.1,category2_name,Yandas Music & Pro Audio
+ 24.2.8.1,category2_name,AVLGear
+ 24.2.9.1,category2_name,Sound Biz - United Kingdom
+ 24.2.1.2,category2_price,$108.90
+ 24.2.2.2,category2_price,$175.45
+ 24.2.3.2,category2_price,Nan
+ 24.2.4.2,category2_price,Nan
+ 24.2.5.2,category2_price,Nan
+ 24.2.6.2,category2_price,Nan
+ 24.2.7.2,category2_price,Nan
+ 24.2.8.2,category2_price,Nan
+ 24.2.9.2,category2_price,Nan
+ 24.2.1.4,category2_rating_count,324
+ 24.2.2.4,category2_rating_count,297
+ 24.2.3.4,category2_rating_count,5125
+ 24.2.4.4,category2_rating_count,2646
+ 24.2.5.4,category2_rating_count,162
+ 24.2.6.4,category2_rating_count,269
+ 24.2.7.4,category2_rating_count,4281
+ 24.2.8.4,category2_rating_count,181
+ 24.2.9.4,category2_rating_count,Nan
+ 24.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 24.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 24.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 24.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 24.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 24.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 24.2.7.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 24.2.8.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 24.2.9.3,category2_review,Nan
+ 25.1.1.1,category1_name,Astatic Small Format Omnidirectional Dynamic Palmheld Microphone with Talk Switch
+ 25.1.1.4,category1_price,$99.99
+ 25.1.1.2,category1_rating,1 rating
+ 25.1.1.3,category1_review,a-icon a-icon-star a-star-5
+ 25.2.1.5,category2_description,84% positive over last 12 months
+ 25.2.1.1,category2_name,AVLGear
+ 25.2.1.2,category2_price,Nan
+ 25.2.1.4,category2_rating_count,4281
+ 25.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 26.1.1.1,category1_name,Astatic WM625S Wall Mounted Omnidirectional Dynamic Microphone with Push to Talk Switch
+ 26.1.1.4,category1_price,$85.99
+ 26.1.1.2,category1_rating,6 ratings
+ 26.1.1.3,category1_review,a-icon a-icon-star a-star-4-5
+ 26.2.1.5,category2_description,57% positive over last 12 months
+ 26.2.2.5,category2_description,84% positive over last 12 months
+ 26.2.1.1,category2_name,Neobits_
+ 26.2.2.1,category2_name,AVLGear
+ 26.2.1.2,category2_price,Nan
+ 26.2.2.2,category2_price,Nan
+ 26.2.1.4,category2_rating_count,581
+ 26.2.2.4,category2_rating_count,4281
+ 26.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-3-5 aod-seller-rating-count-class
+ 26.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 27.1.1.1,category1_name,Astatic 611L Omnidirectional Dynamic Palmheld Microphone with Talk Switch
+ 27.1.1.4,category1_price,$84.95
+ 27.1.1.2,category1_rating,33 ratings
+ 27.1.1.3,category1_review,a-icon a-icon-star a-star-4
+ 27.2.1.5,category2_description,99% positive over last 12 months
+ 27.2.2.5,category2_description,71% positive over last 12 months
+ 27.2.3.5,category2_description,90% positive over last 12 months
+ 27.2.4.5,category2_description,83% positive over last 12 months
+ 27.2.5.5,category2_description,89% positive over last 12 months
+ 27.2.6.5,category2_description,87% positive over last 12 months
+ 27.2.7.5,category2_description,84% positive over last 12 months
+ 27.2.1.1,category2_name,Amazon.com
+ 27.2.2.1,category2_name,JM PRIME
+ 27.2.3.1,category2_name,Full Compass Systems
+ 27.2.4.1,category2_name,Home Essentials ✅
+ 27.2.5.1,category2_name,Casa Mila Inc
+ 27.2.6.1,category2_name,Consumer Supply Co
+ 27.2.7.1,category2_name,AVLGear
+ 27.2.1.2,category2_price,$102.04
+ 27.2.2.2,category2_price,$105.92
+ 27.2.3.2,category2_price,$107.29
+ 27.2.4.2,category2_price,Nan
+ 27.2.5.2,category2_price,Nan
+ 27.2.6.2,category2_price,Nan
+ 27.2.7.2,category2_price,Nan
+ 27.2.1.4,category2_rating_count,2260
+ 27.2.2.4,category2_rating_count,53617
+ 27.2.3.4,category2_rating_count,9116
+ 27.2.4.4,category2_rating_count,16920
+ 27.2.5.4,category2_rating_count,496
+ 27.2.6.4,category2_rating_count,538
+ 27.2.7.4,category2_rating_count,4281
+ 27.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 27.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4 aod-seller-rating-count-class
+ 27.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 27.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 27.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 27.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 27.2.7.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 28.1.1.1,category1_name,CAD Audio U37 USB Studio Condenser Recording Microphone
+ 28.1.1.4,category1_price,$29.35
+ 28.1.1.2,category1_rating,"2,258 ratings"
+ 28.1.1.3,category1_review,a-icon a-icon-star a-star-4-5
+ 28.2.1.5,category2_description,98% positive over last 12 months
+ 28.2.10.5,category2_description,99% positive over last 12 months
+ 28.2.11.5,category2_description,94% positive over last 12 months
+ 28.2.12.5,category2_description,89% positive over last 12 months
+ 28.2.13.5,category2_description,Nan
+ 28.2.14.5,category2_description,92% positive over last 12 months
+ 28.2.15.5,category2_description,Nan
+ 28.2.16.5,category2_description,Nan
+ 28.2.2.5,category2_description,99% positive over last 12 months
+ 28.2.3.5,category2_description,98% positive over last 12 months
+ 28.2.4.5,category2_description,89% positive over last 12 months
+ 28.2.5.5,category2_description,70% positive
+ 28.2.6.5,category2_description,89% positive over last 12 months
+ 28.2.7.5,category2_description,84% positive over last 12 months
+ 28.2.8.5,category2_description,95% positive over last 12 months
+ 28.2.9.5,category2_description,92% positive over last 12 months
+ 28.2.1.1,category2_name,Mugan_Music_Group
+ 28.2.10.1,category2_name,AVLGear
+ 28.2.11.1,category2_name,Beach Camera Same Day Shipping
+ 28.2.12.1,category2_name,Interstate Music
+ 28.2.13.1,category2_name,Photo4Less
+ 28.2.14.1,category2_name,MusicStoreLive
+ 28.2.15.1,category2_name,Pitbull Electronics
+ 28.2.16.1,category2_name,HappyTrade
+ 28.2.2.1,category2_name,Amazon.com
+ 28.2.3.1,category2_name,This is an open box item that is still basically brand new
+ 28.2.4.1,category2_name,Mugan_Music_Group
+ 28.2.5.1,category2_name,GMS Online
+ 28.2.6.1,category2_name,Amazon.com
+ 28.2.7.1,category2_name,Amazon.com
+ 28.2.8.1,category2_name,BV Delivery
+ 28.2.9.1,category2_name,Casa Mila Inc
+ 28.2.1.2,category2_price,Nan
+ 28.2.10.2,category2_price,Nan
+ 28.2.11.2,category2_price,Nan
+ 28.2.12.2,category2_price,Nan
+ 28.2.13.2,category2_price,Nan
+ 28.2.14.2,category2_price,Nan
+ 28.2.15.2,category2_price,Nan
+ 28.2.16.2,category2_price,Nan
+ 28.2.2.2,category2_price,Nan
+ 28.2.3.2,category2_price,Nan
+ 28.2.4.2,category2_price,Nan
+ 28.2.5.2,category2_price,Nan
+ 28.2.6.2,category2_price,Nan
+ 28.2.7.2,category2_price,Nan
+ 28.2.8.2,category2_price,Nan
+ 28.2.9.2,category2_price,Nan
+ 28.2.1.4,category2_rating_count,2340
+ 28.2.10.4,category2_rating_count,38240
+ 28.2.11.4,category2_rating_count,2646
+ 28.2.12.4,category2_rating_count,5125
+ 28.2.13.4,category2_rating_count,$9.99
+ 28.2.14.4,category2_rating_count,1972
+ 28.2.15.4,category2_rating_count,Nan
+ 28.2.16.4,category2_rating_count,Nan
+ 28.2.2.4,category2_rating_count,38240
+ 28.2.3.4,category2_rating_count,2340
+ 28.2.4.4,category2_rating_count,615
+ 28.2.5.4,category2_rating_count,10
+ 28.2.6.4,category2_rating_count,496
+ 28.2.7.4,category2_rating_count,4281
+ 28.2.8.4,category2_rating_count,347222
+ 28.2.9.4,category2_rating_count,7711
+ 28.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 28.2.10.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 28.2.11.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 28.2.12.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 28.2.13.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 28.2.14.3,category2_review,Nan
+ 28.2.15.3,category2_review,Nan
+ 28.2.16.3,category2_review,Nan
+ 28.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 28.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 28.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 28.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-4 aod-seller-rating-count-class
+ 28.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 28.2.7.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 28.2.8.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 28.2.9.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 29.1.1.1,category1_name,"CAD Audio, 2 GXLD2HHAI Digital Wireless Dual Handheld Microphone System with D38 Capsule, AI Frequency Band (AMS-GXLD2-HHAI)"
+ 29.1.1.4,category1_price,$200.62
+ 29.1.1.2,category1_rating,2 ratings
+ 29.1.1.3,category1_review,a-icon a-icon-star a-star-4
+ 29.2.1.5,category2_description,100% positive over last 12 months
+ 29.2.2.5,category2_description,96% positive over last 12 months
+ 29.2.3.5,category2_description,88% positive over last 12 months
+ 29.2.4.5,category2_description,84% positive over last 12 months
+ 29.2.1.1,category2_name,Amazon.com
+ 29.2.2.1,category2_name,Bailey Brothers Music Company
+ 29.2.3.1,category2_name,Capital Music Gear
+ 29.2.4.1,category2_name,AVLGear
+ 29.2.1.2,category2_price,$199.99
+ 29.2.2.2,category2_price,$199.99
+ 29.2.3.2,category2_price,$199.99
+ 29.2.4.2,category2_price,$199.00
+ 29.2.1.4,category2_rating_count,1978
+ 29.2.2.4,category2_rating_count,1450
+ 29.2.3.4,category2_rating_count,958
+ 29.2.4.4,category2_rating_count,4281
+ 29.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 29.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 29.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 29.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 30.1.1.1,category1_name,CAD Audio CADLive D80 Large Diaphragm Supercardioid Dynamic Side Address Microphone
+ 30.1.1.4,category1_price,$99.99
+ 30.1.1.2,category1_rating,30 ratings
+ 30.1.1.3,category1_review,a-icon a-icon-star a-star-4-5
+ 30.2.1.5,category2_description,62% positive over last 12 months
+ 30.2.2.5,category2_description,94% positive over last 12 months
+ 30.2.3.5,category2_description,100% positive over last 12 months
+ 30.2.4.5,category2_description,72% positive over last 12 months
+ 30.2.1.1,category2_name,Cyber Over Stock
+ 30.2.2.1,category2_name,MusicStoreLive
+ 30.2.3.1,category2_name,Backwoods Guitar LLC
+ 30.2.4.1,category2_name,Rover Mall
+ 30.2.1.2,category2_price,$153.92
+ 30.2.2.2,category2_price,Nan
+ 30.2.3.2,category2_price,Nan
+ 30.2.4.2,category2_price,Nan
+ 30.2.1.4,category2_rating_count,6286
+ 30.2.2.4,category2_rating_count,2646
+ 30.2.3.4,category2_rating_count,4
+ 30.2.4.4,category2_rating_count,37577
+ 30.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-3-5 aod-seller-rating-count-class
+ 30.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 30.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 30.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4 aod-seller-rating-count-class
+ 31.1.1.1,category1_name,"Astatic 827A-17 22"" Cardioid Condenser-Mini Gooseneck, Speech Tailored Frequency Response"
+ 31.1.1.4,category1_price,$102.60
+ 31.1.1.2,category1_rating,25 ratings
+ 31.1.1.3,category1_review,a-icon a-icon-star a-star-3-5
+ 31.2.1.5,category2_description,98% positive over last 12 months
+ 31.2.2.5,category2_description,84% positive over last 12 months
+ 31.2.3.5,category2_description,87% positive over last 12 months
+ 31.2.4.5,category2_description,Nan
+ 31.2.5.5,category2_description,Nan
+ 31.2.1.1,category2_name,Amazon.com
+ 31.2.2.1,category2_name,Amazon.com
+ 31.2.3.1,category2_name,M Z Photo
+ 31.2.4.1,category2_name,AVLGear
+ 31.2.5.1,category2_name,Consumer Supply Co
+ 31.2.1.2,category2_price,$109.00
+ 31.2.2.2,category2_price,$109.99
+ 31.2.3.2,category2_price,$129.00
+ 31.2.4.2,category2_price,$156.31
+ 31.2.5.2,category2_price,Nan
+ 31.2.1.4,category2_rating_count,37577
+ 31.2.2.4,category2_rating_count,4281
+ 31.2.3.4,category2_rating_count,538
+ 31.2.4.4,category2_rating_count,Nan
+ 31.2.5.4,category2_rating_count,Nan
+ 31.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 31.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 31.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 31.2.4.3,category2_review,Nan
+ 31.2.5.3,category2_review,Nan
+ 32.1.1.1,category1_name,CAD AS34 Acousti-Shield Stand Mounted Acoustic Enclosure
+ 32.1.1.4,category1_price,$79.00
+ 32.1.1.2,category1_rating,44 ratings
+ 32.1.1.3,category1_review,a-icon a-icon-star a-star-4
+ 32.2.1.5,category2_description,65% positive over last 12 months
+ 32.2.2.5,category2_description,89% positive over last 12 months
+ 32.2.3.5,category2_description,89% positive over last 12 months
+ 32.2.4.5,category2_description,94% positive over last 12 months
+ 32.2.5.5,category2_description,84% positive over last 12 months
+ 32.2.6.5,category2_description,89% positive over last 12 months
+ 32.2.7.5,category2_description,Nan
+ 32.2.8.5,category2_description,Nan
+ 32.2.1.1,category2_name,Absolute Pro Music
+ 32.2.2.1,category2_name,Absolute Pro Music Superstore
+ 32.2.3.1,category2_name,Pitbull Electronics
+ 32.2.4.1,category2_name,MusicStoreLive
+ 32.2.5.1,category2_name,Amazon.com
+ 32.2.6.1,category2_name,Amazon.com
+ 32.2.7.1,category2_name,AVLGear
+ 32.2.8.1,category2_name,First Harmonic Limited
+ 32.2.1.2,category2_price,$129.98
+ 32.2.2.2,category2_price,Nan
+ 32.2.3.2,category2_price,Nan
+ 32.2.4.2,category2_price,Nan
+ 32.2.5.2,category2_price,Nan
+ 32.2.6.2,category2_price,Nan
+ 32.2.7.2,category2_price,Nan
+ 32.2.8.2,category2_price,Nan
+ 32.2.1.4,category2_rating_count,3169
+ 32.2.2.4,category2_rating_count,45
+ 32.2.3.4,category2_rating_count,5125
+ 32.2.4.4,category2_rating_count,2646
+ 32.2.5.4,category2_rating_count,4281
+ 32.2.6.4,category2_rating_count,302
+ 32.2.7.4,category2_rating_count,Nan
+ 32.2.8.4,category2_rating_count,Nan
+ 32.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-3-5 aod-seller-rating-count-class
+ 32.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 32.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 32.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 32.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 32.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 32.2.7.3,category2_review,Nan
+ 32.2.8.3,category2_review,Nan
+ 33.1.1.1,category1_name,"CAD Audio GXLD2HHAH Digital Wireless Dual Handheld Microphone System with D38 Capsule, AH Frequency Band (AMS-GXLD2-HHAH)"
+ 33.1.1.4,category1_price,$199.99
+ 33.1.1.2,category1_rating,2 ratings
+ 33.1.1.3,category1_review,a-icon a-icon-star a-star-4
+ 33.2.1.5,category2_description,93% positive over last 12 months
+ 33.2.2.5,category2_description,88% positive over last 12 months
+ 33.2.3.5,category2_description,93% positive over last 12 months
+ 33.2.4.5,category2_description,84% positive over last 12 months
+ 33.2.5.5,category2_description,89% positive over last 12 months
+ 33.2.6.5,category2_description,89% positive over last 12 months
+ 33.2.7.5,category2_description,87% positive over last 12 months
+ 33.2.8.5,category2_description,90% positive over last 12 months
+ 33.2.1.1,category2_name,GearTree
+ 33.2.2.1,category2_name,Capital Music Gear
+ 33.2.3.1,category2_name,GearTree
+ 33.2.4.1,category2_name,AVLGear
+ 33.2.5.1,category2_name,"SETI, Inc."
+ 33.2.6.1,category2_name,Casa Mila Inc
+ 33.2.7.1,category2_name,Consumer Supply Co
+ 33.2.8.1,category2_name,American Shopping
+ 33.2.1.2,category2_price,$197.10
+ 33.2.2.2,category2_price,$199.99
+ 33.2.3.2,category2_price,$219.00
+ 33.2.4.2,category2_price,$199.00
+ 33.2.5.2,category2_price,$248.62
+ 33.2.6.2,category2_price,$267.98
+ 33.2.7.2,category2_price,$284.76
+ 33.2.8.2,category2_price,$331.49
+ 33.2.1.4,category2_rating_count,21151
+ 33.2.2.4,category2_rating_count,958
+ 33.2.3.4,category2_rating_count,21151
+ 33.2.4.4,category2_rating_count,4281
+ 33.2.5.4,category2_rating_count,298
+ 33.2.6.4,category2_rating_count,496
+ 33.2.7.4,category2_rating_count,538
+ 33.2.8.4,category2_rating_count,670
+ 33.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 33.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 33.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 33.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 33.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 33.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 33.2.7.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 33.2.8.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 34.1.1.1,category1_name,CAD Audio E100SX Equitek Large Diaphragm Supercardioid Condenser Microphone (E100SX)
+ 34.1.1.4,category1_price,$299.99
+ 34.1.1.2,category1_rating,1 rating
+ 34.1.1.3,category1_review,a-icon a-icon-star a-star-5
+ 34.2.1.5,category2_description,88% positive over last 12 months
+ 34.2.2.5,category2_description,99% positive over last 12 months
+ 34.2.3.5,category2_description,93% positive over last 12 months
+ 34.2.4.5,category2_description,92% positive over last 12 months
+ 34.2.5.5,category2_description,88% positive over last 12 months
+ 34.2.6.5,category2_description,94% positive
+ 34.2.7.5,category2_description,84% positive over last 12 months
+ 34.2.1.1,category2_name,Amazon.com
+ 34.2.2.1,category2_name,Amazon.com
+ 34.2.3.1,category2_name,GearTree
+ 34.2.4.1,category2_name,Interstate Music
+ 34.2.5.1,category2_name,Sole Source AV Supply
+ 34.2.6.1,category2_name,Front End Audio
+ 34.2.7.1,category2_name,AVLGear
+ 34.2.1.2,category2_price,$299.99
+ 34.2.2.2,category2_price,$299.99
+ 34.2.3.2,category2_price,$299.99
+ 34.2.4.2,category2_price,$299.99
+ 34.2.5.2,category2_price,$299.99
+ 34.2.6.2,category2_price,$299.99
+ 34.2.7.2,category2_price,$299.00
+ 34.2.1.4,category2_rating_count,401
+ 34.2.2.4,category2_rating_count,38240
+ 34.2.3.4,category2_rating_count,21151
+ 34.2.4.4,category2_rating_count,7711
+ 34.2.5.4,category2_rating_count,401
+ 34.2.6.4,category2_rating_count,846
+ 34.2.7.4,category2_rating_count,4281
+ 34.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 34.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 34.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 34.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 34.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 34.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 34.2.7.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 35.1.1.1,category1_name,"CAD Audio CAD GXL2200 Cardioid Condenser Microphone, Champagne Finish"
+ 35.1.1.4,category1_price,$99.99
+ 35.1.1.2,category1_rating,406 ratings
+ 35.1.1.3,category1_review,a-icon a-icon-star a-star-4-5
+ 35.2.1.5,category2_description,99% positive over last 12 months
+ 35.2.10.5,category2_description,99% positive over last 12 months
+ 35.2.11.5,category2_description,85% positive over last 12 months
+ 35.2.12.5,category2_description,72% positive over last 12 months
+ 35.2.13.5,category2_description,Nan
+ 35.2.2.5,category2_description,99% positive over last 12 months
+ 35.2.3.5,category2_description,84% positive over last 12 months
+ 35.2.4.5,category2_description,91% positive over last 12 months
+ 35.2.5.5,category2_description,95% positive over last 12 months
+ 35.2.6.5,category2_description,97% positive over last 12 months
+ 35.2.7.5,category2_description,89% positive over last 12 months
+ 35.2.8.5,category2_description,94% positive over last 12 months
+ 35.2.9.5,category2_description,91% positive over last 12 months
+ 35.2.1.1,category2_name,Amazon.com
+ 35.2.10.1,category2_name,Guitar Audio
+ 35.2.11.1,category2_name,Photo4Less
+ 35.2.12.1,category2_name,Yandas Music & Pro Audio
+ 35.2.13.1,category2_name,Rover Mall
+ 35.2.2.1,category2_name,Amazon.com
+ 35.2.3.1,category2_name,AVLGear
+ 35.2.4.1,category2_name,Amazon.com
+ 35.2.5.1,category2_name,GuitarTruck
+ 35.2.6.1,category2_name,DigitalDJGear
+ 35.2.7.1,category2_name,Pitbull Electronics
+ 35.2.8.1,category2_name,MusicStoreLive
+ 35.2.9.1,category2_name,Floyd’s Goods
+ 35.2.1.2,category2_price,$107.28
+ 35.2.10.2,category2_price,Nan
+ 35.2.11.2,category2_price,Nan
+ 35.2.12.2,category2_price,Nan
+ 35.2.13.2,category2_price,Nan
+ 35.2.2.2,category2_price,$108.99
+ 35.2.3.2,category2_price,$154.96
+ 35.2.4.2,category2_price,Nan
+ 35.2.5.2,category2_price,Nan
+ 35.2.6.2,category2_price,Nan
+ 35.2.7.2,category2_price,Nan
+ 35.2.8.2,category2_price,Nan
+ 35.2.9.2,category2_price,Nan
+ 35.2.1.4,category2_rating_count,2260
+ 35.2.10.4,category2_rating_count,38240
+ 35.2.11.4,category2_rating_count,269
+ 35.2.12.4,category2_rating_count,37577
+ 35.2.13.4,category2_rating_count,Nan
+ 35.2.2.4,category2_rating_count,38240
+ 35.2.3.4,category2_rating_count,4281
+ 35.2.4.4,category2_rating_count,360
+ 35.2.5.4,category2_rating_count,324
+ 35.2.6.4,category2_rating_count,1939
+ 35.2.7.4,category2_rating_count,5125
+ 35.2.8.4,category2_rating_count,2646
+ 35.2.9.4,category2_rating_count,6347
+ 35.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 35.2.10.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 35.2.11.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 35.2.12.3,category2_review,a-icon a-icon-star-mini a-star-mini-4 aod-seller-rating-count-class
+ 35.2.13.3,category2_review,Nan
+ 35.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 35.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 35.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 35.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 35.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 35.2.7.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 35.2.8.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 35.2.9.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 36.1.1.1,category1_name,"CAD Audio Stage4 4-Piece Drum Mic Pack - Includes Kick Mic, Snare Mic and 2 Tom Mics"
+ 36.1.1.4,category1_price,$159.00
+ 36.1.1.2,category1_rating,43 ratings
+ 36.1.1.3,category1_review,a-icon a-icon-star a-star-4-5
+ 36.2.1.5,category2_description,82% positive over last 12 months
+ 36.2.10.5,category2_description,84% positive over last 12 months
+ 36.2.11.5,category2_description,Nan
+ 36.2.12.5,category2_description,Nan
+ 36.2.2.5,category2_description,65% positive over last 12 months
+ 36.2.3.5,category2_description,89% positive over last 12 months
+ 36.2.4.5,category2_description,99% positive over last 12 months
+ 36.2.5.5,category2_description,95% positive over last 12 months
+ 36.2.6.5,category2_description,92% positive over last 12 months
+ 36.2.7.5,category2_description,94% positive over last 12 months
+ 36.2.8.5,category2_description,89% positive over last 12 months
+ 36.2.9.5,category2_description,85% positive over last 12 months
+ 36.2.1.1,category2_name,Licario
+ 36.2.10.1,category2_name,Pitbull Electronics
+ 36.2.11.1,category2_name,Yandas Music & Pro Audio
+ 36.2.12.1,category2_name,AVLGear
+ 36.2.2.1,category2_name,Absolute Pro Music
+ 36.2.3.1,category2_name,Absolute Pro Music Superstore
+ 36.2.4.1,category2_name,Amazon.com
+ 36.2.5.1,category2_name,Amazon.com
+ 36.2.6.1,category2_name,Amazon.com
+ 36.2.7.1,category2_name,GuitarTruck
+ 36.2.8.1,category2_name,Interstate Music
+ 36.2.9.1,category2_name,MusicStoreLive
+ 36.2.1.2,category2_price,$158.99
+ 36.2.10.2,category2_price,$174.90
+ 36.2.11.2,category2_price,$159.00
+ 36.2.12.2,category2_price,Nan
+ 36.2.2.2,category2_price,$159.00
+ 36.2.3.2,category2_price,$159.00
+ 36.2.4.2,category2_price,$159.00
+ 36.2.5.2,category2_price,$159.00
+ 36.2.6.2,category2_price,$159.99
+ 36.2.7.2,category2_price,$159.99
+ 36.2.8.2,category2_price,$159.99
+ 36.2.9.2,category2_price,$159.99
+ 36.2.1.4,category2_rating_count,59
+ 36.2.10.4,category2_rating_count,4281
+ 36.2.11.4,category2_rating_count,Nan
+ 36.2.12.4,category2_rating_count,Nan
+ 36.2.2.4,category2_rating_count,3169
+ 36.2.3.4,category2_rating_count,45
+ 36.2.4.4,category2_rating_count,38240
+ 36.2.5.4,category2_rating_count,324
+ 36.2.6.4,category2_rating_count,7711
+ 36.2.7.4,category2_rating_count,2646
+ 36.2.8.4,category2_rating_count,5125
+ 36.2.9.4,category2_rating_count,269
+ 36.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 36.2.10.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 36.2.11.3,category2_review,Nan
+ 36.2.12.3,category2_review,Nan
+ 36.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-3-5 aod-seller-rating-count-class
+ 36.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 36.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 36.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 36.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 36.2.7.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 36.2.8.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 36.2.9.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 37.1.1.1,category1_name,CAD Audio U29 USB Large Format Side Address Studio Microphone
+ 37.1.1.4,category1_price,Nan
+ 37.1.1.2,category1_rating,32 ratings
+ 37.1.1.3,category1_review,a-icon a-icon-star a-star-4-5
+ 37.2.1.5,category2_description,96% positive over last 12 months
+ 37.2.10.5,category2_description,92% positive over last 12 months
+ 37.2.11.5,category2_description,98% positive over last 12 months
+ 37.2.12.5,category2_description,72% positive over last 12 months
+ 37.2.13.5,category2_description,Nan
+ 37.2.14.5,category2_description,88% positive over last 12 months
+ 37.2.15.5,category2_description,92% positive over last 12 months
+ 37.2.16.5,category2_description,89% positive over last 12 months
+ 37.2.17.5,category2_description,88% positive over last 12 months
+ 37.2.2.5,category2_description,98% positive over last 12 months
+ 37.2.3.5,category2_description,99% positive over last 12 months
+ 37.2.4.5,category2_description,95% positive over last 12 months
+ 37.2.5.5,category2_description,84% positive over last 12 months
+ 37.2.6.5,category2_description,94% positive over last 12 months
+ 37.2.7.5,category2_description,89% positive over last 12 months
+ 37.2.8.5,category2_description,93% positive over last 12 months
+ 37.2.9.5,category2_description,85% positive over last 12 months
+ 37.2.1.1,category2_name,Amazon.com
+ 37.2.10.1,category2_name,Interstate Music
+ 37.2.11.1,category2_name,Mugan_Music_Group
+ 37.2.12.1,category2_name,Rover Mall
+ 37.2.13.1,category2_name,Sole Source AV Supply
+ 37.2.14.1,category2_name,Adorama
+ 37.2.15.1,category2_name,First Harmonic Limited
+ 37.2.16.1,category2_name,Capital Music Gear
+ 37.2.17.1,category2_name,Nan
+ 37.2.2.1,category2_name,Amazon.com
+ 37.2.3.1,category2_name,Photo4Less
+ 37.2.4.1,category2_name,GuitarTruck
+ 37.2.5.1,category2_name,AVLGear
+ 37.2.6.1,category2_name,MusicStoreLive
+ 37.2.7.1,category2_name,Pitbull Electronics
+ 37.2.8.1,category2_name,Marmalade USA
+ 37.2.9.1,category2_name,Yandas Music & Pro Audio
+ 37.2.1.2,category2_price,Nan
+ 37.2.10.2,category2_price,Nan
+ 37.2.11.2,category2_price,Nan
+ 37.2.12.2,category2_price,Nan
+ 37.2.13.2,category2_price,Nan
+ 37.2.14.2,category2_price,Nan
+ 37.2.15.2,category2_price,Nan
+ 37.2.16.2,category2_price,Nan
+ 37.2.17.2,category2_price,Nan
+ 37.2.2.2,category2_price,Nan
+ 37.2.3.2,category2_price,Nan
+ 37.2.4.2,category2_price,Nan
+ 37.2.5.2,category2_price,Nan
+ 37.2.6.2,category2_price,Nan
+ 37.2.7.2,category2_price,Nan
+ 37.2.8.2,category2_price,Nan
+ 37.2.9.2,category2_price,Nan
+ 37.2.1.4,category2_rating_count,24284
+ 37.2.10.4,category2_rating_count,7711
+ 37.2.11.4,category2_rating_count,2340
+ 37.2.12.4,category2_rating_count,37577
+ 37.2.13.4,category2_rating_count,$13.89
+ 37.2.14.4,category2_rating_count,401
+ 37.2.15.4,category2_rating_count,573346
+ 37.2.16.4,category2_rating_count,302
+ 37.2.17.4,category2_rating_count,958
+ 37.2.2.4,category2_rating_count,2340
+ 37.2.3.4,category2_rating_count,38240
+ 37.2.4.4,category2_rating_count,324
+ 37.2.5.4,category2_rating_count,4281
+ 37.2.6.4,category2_rating_count,2646
+ 37.2.7.4,category2_rating_count,5125
+ 37.2.8.4,category2_rating_count,162
+ 37.2.9.4,category2_rating_count,269
+ 37.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 37.2.10.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 37.2.11.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 37.2.12.3,category2_review,a-icon a-icon-star-mini a-star-mini-4 aod-seller-rating-count-class
+ 37.2.13.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 37.2.14.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 37.2.15.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 37.2.16.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 37.2.17.3,category2_review,Nan
+ 37.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 37.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 37.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 37.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 37.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 37.2.7.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 37.2.8.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 37.2.9.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 38.1.1.1,category1_name,CAD GXLIEM Wireless In Ear Monitor System - BodyPack only
+ 38.1.1.4,category1_price,Nan
+ 38.1.1.2,category1_rating,19 ratings
+ 38.1.1.3,category1_review,a-icon a-icon-star a-star-4-5
+ 38.2.1.5,category2_description,89% positive over last 12 months
+ 38.2.2.5,category2_description,87% positive over last 12 months
+ 38.2.3.5,category2_description,90% positive over last 12 months
+ 38.2.4.5,category2_description,93% positive over last 12 months
+ 38.2.1.1,category2_name,"SETI, Inc."
+ 38.2.2.1,category2_name,Consumer Supply Co
+ 38.2.3.1,category2_name,American Shopping
+ 38.2.4.1,category2_name,Orotree Market Deals
+ 38.2.1.2,category2_price,$113.15
+ 38.2.2.2,category2_price,$113.25
+ 38.2.3.2,category2_price,$120.16
+ 38.2.4.2,category2_price,$141.30
+ 38.2.1.4,category2_rating_count,298
+ 38.2.2.4,category2_rating_count,538
+ 38.2.3.4,category2_rating_count,670
+ 38.2.4.4,category2_rating_count,14
+ 38.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 38.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 38.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 38.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 39.1.1.1,category1_name,"CAD Audio GXLIEM4 Frequency Agile Wireless In Ear Monitor System -Four discrete mixes - includes 4 MEB1 Earbuds, 4 Bodypack Receivers, Rack Mount Ears and Antenna Relocation Kit"
+ 39.1.1.4,category1_price,$549.00
+ 39.1.1.2,category1_rating,19 ratings
+ 39.1.1.3,category1_review,a-icon a-icon-star a-star-4-5
+ 39.2.1.5,category2_description,96% positive over last 12 months
+ 39.2.2.5,category2_description,Nan
+ 39.2.3.5,category2_description,84% positive over last 12 months
+ 39.2.4.5,category2_description,89% positive over last 12 months
+ 39.2.5.5,category2_description,87% positive over last 12 months
+ 39.2.6.5,category2_description,90% positive over last 12 months
+ 39.2.1.1,category2_name,Bailey Brothers Music Company
+ 39.2.2.1,category2_name,AVLGear
+ 39.2.3.1,category2_name,"SETI, Inc."
+ 39.2.4.1,category2_name,Consumer Supply Co
+ 39.2.5.1,category2_name,American Shopping
+ 39.2.6.1,category2_name,Nan
+ 39.2.1.2,category2_price,$549.00
+ 39.2.2.2,category2_price,$549.00
+ 39.2.3.2,category2_price,$675.20
+ 39.2.4.2,category2_price,$701.16
+ 39.2.5.2,category2_price,$900.26
+ 39.2.6.2,category2_price,Nan
+ 39.2.1.4,category2_rating_count,1450
+ 39.2.2.4,category2_rating_count,$29.95
+ 39.2.3.4,category2_rating_count,4281
+ 39.2.4.4,category2_rating_count,298
+ 39.2.5.4,category2_rating_count,538
+ 39.2.6.4,category2_rating_count,670
+ 39.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 39.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 39.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 39.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 39.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 39.2.6.3,category2_review,Nan
+ 40.1.1.1,category1_name,"CAD Audio, 2 GXLD2HBAI Digital Wireless Combo Microphone System, Handheld and Bodypack, AI Frequency Band (AMS-GXLD2-HBAI)"
+ 40.1.1.4,category1_price,$199.99
+ 40.1.1.2,category1_rating,2 ratings
+ 40.1.1.3,category1_review,a-icon a-icon-star a-star-4
+ 40.2.1.5,category2_description,93% positive over last 12 months
+ 40.2.2.5,category2_description,93% positive over last 12 months
+ 40.2.3.5,category2_description,94% positive over last 12 months
+ 40.2.4.5,category2_description,89% positive over last 12 months
+ 40.2.5.5,category2_description,92% positive over last 12 months
+ 40.2.6.5,category2_description,84% positive over last 12 months
+ 40.2.1.1,category2_name,GearTree
+ 40.2.2.1,category2_name,GearTree
+ 40.2.3.1,category2_name,MusicStoreLive
+ 40.2.4.1,category2_name,Pitbull Electronics
+ 40.2.5.1,category2_name,Adorama
+ 40.2.6.1,category2_name,AVLGear
+ 40.2.1.2,category2_price,$179.10
+ 40.2.2.2,category2_price,$199.00
+ 40.2.3.2,category2_price,$199.99
+ 40.2.4.2,category2_price,$199.99
+ 40.2.5.2,category2_price,$199.99
+ 40.2.6.2,category2_price,$199.00
+ 40.2.1.4,category2_rating_count,21151
+ 40.2.2.4,category2_rating_count,21151
+ 40.2.3.4,category2_rating_count,2646
+ 40.2.4.4,category2_rating_count,5125
+ 40.2.5.4,category2_rating_count,573346
+ 40.2.6.4,category2_rating_count,4281
+ 40.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 40.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 40.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 40.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 40.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 40.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 41.1.1.1,category1_name,"CAD Audio Dynamic Microphone, 1 Count (D90)"
+ 41.1.1.4,category1_price,$79.00
+ 41.1.1.2,category1_rating,29 ratings
+ 41.1.1.3,category1_review,a-icon a-icon-star a-star-4-5
+ 41.2.1.5,category2_description,93% positive over last 12 months
+ 41.2.10.5,category2_description,92% positive over last 12 months
+ 41.2.11.5,category2_description,100% positive over last 12 months
+ 41.2.12.5,category2_description,94% positive over last 12 months
+ 41.2.13.5,category2_description,89% positive over last 12 months
+ 41.2.14.5,category2_description,91% positive over last 12 months
+ 41.2.15.5,category2_description,84% positive over last 12 months
+ 41.2.16.5,category2_description,92% positive over last 12 months
+ 41.2.17.5,category2_description,72% positive over last 12 months
+ 41.2.2.5,category2_description,91% positive over last 12 months
+ 41.2.3.5,category2_description,100% positive over last 12 months
+ 41.2.4.5,category2_description,96% positive over last 12 months
+ 41.2.5.5,category2_description,97% positive over last 12 months
+ 41.2.6.5,category2_description,89% positive over last 12 months
+ 41.2.7.5,category2_description,65% positive over last 12 months
+ 41.2.8.5,category2_description,99% positive over last 12 months
+ 41.2.9.5,category2_description,95% positive over last 12 months
+ 41.2.1.1,category2_name,Total Music Source
+ 41.2.10.1,category2_name,Interstate Music
+ 41.2.11.1,category2_name,Backwoods Guitar LLC
+ 41.2.12.1,category2_name,MusicStoreLive
+ 41.2.13.1,category2_name,Pitbull Electronics
+ 41.2.14.1,category2_name,Guitar Audio
+ 41.2.15.1,category2_name,AVLGear
+ 41.2.16.1,category2_name,Kincaid's Music
+ 41.2.17.1,category2_name,Rover Mall
+ 41.2.2.1,category2_name,Amazon.com
+ 41.2.3.1,category2_name,Amazon.com
+ 41.2.4.1,category2_name,Bailey Brothers Music Company
+ 41.2.5.1,category2_name,Photo Savings
+ 41.2.6.1,category2_name,Absolute Pro Music Superstore
+ 41.2.7.1,category2_name,Absolute Pro Music
+ 41.2.8.1,category2_name,Amazon.com
+ 41.2.9.1,category2_name,GuitarTruck
+ 41.2.1.2,category2_price,$102.96
+ 41.2.10.2,category2_price,Nan
+ 41.2.11.2,category2_price,Nan
+ 41.2.12.2,category2_price,Nan
+ 41.2.13.2,category2_price,Nan
+ 41.2.14.2,category2_price,Nan
+ 41.2.15.2,category2_price,Nan
+ 41.2.16.2,category2_price,Nan
+ 41.2.17.2,category2_price,Nan
+ 41.2.2.2,category2_price,Nan
+ 41.2.3.2,category2_price,Nan
+ 41.2.4.2,category2_price,Nan
+ 41.2.5.2,category2_price,Nan
+ 41.2.6.2,category2_price,Nan
+ 41.2.7.2,category2_price,Nan
+ 41.2.8.2,category2_price,Nan
+ 41.2.9.2,category2_price,Nan
+ 41.2.1.4,category2_rating_count,12278
+ 41.2.10.4,category2_rating_count,7711
+ 41.2.11.4,category2_rating_count,4
+ 41.2.12.4,category2_rating_count,2646
+ 41.2.13.4,category2_rating_count,5125
+ 41.2.14.4,category2_rating_count,6347
+ 41.2.15.4,category2_rating_count,4281
+ 41.2.16.4,category2_rating_count,2861
+ 41.2.17.4,category2_rating_count,37577
+ 41.2.2.4,category2_rating_count,4555
+ 41.2.3.4,category2_rating_count,112
+ 41.2.4.4,category2_rating_count,1450
+ 41.2.5.4,category2_rating_count,21420
+ 41.2.6.4,category2_rating_count,45
+ 41.2.7.4,category2_rating_count,3169
+ 41.2.8.4,category2_rating_count,2260
+ 41.2.9.4,category2_rating_count,324
+ 41.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 41.2.10.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 41.2.11.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 41.2.12.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 41.2.13.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 41.2.14.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 41.2.15.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 41.2.16.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 41.2.17.3,category2_review,a-icon a-icon-star-mini a-star-mini-4 aod-seller-rating-count-class
+ 41.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 41.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 41.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 41.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 41.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 41.2.7.3,category2_review,a-icon a-icon-star-mini a-star-mini-3-5 aod-seller-rating-count-class
+ 41.2.8.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 41.2.9.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 42.1.1.1,category1_name,CAD Audio USB U2 Stereo Headphones with Cardioid Condenser Microphone
+ 42.1.1.4,category1_price,$34.99
+ 42.1.1.2,category1_rating,204 ratings
+ 42.1.1.3,category1_review,a-icon a-icon-star a-star-4
+ 42.2.1.5,category2_description,99% positive over last 12 months
+ 42.2.10.5,category2_description,92% positive over last 12 months
+ 42.2.11.5,category2_description,93% positive over last 12 months
+ 42.2.12.5,category2_description,91% positive over last 12 months
+ 42.2.13.5,category2_description,100% positive over last 12 months
+ 42.2.14.5,category2_description,Nan
+ 42.2.15.5,category2_description,88% positive over last 12 months
+ 42.2.16.5,category2_description,88% positive over last 12 months
+ 42.2.2.5,category2_description,89% positive over last 12 months
+ 42.2.3.5,category2_description,98% positive over last 12 months
+ 42.2.4.5,category2_description,84% positive over last 12 months
+ 42.2.5.5,category2_description,90% positive over last 12 months
+ 42.2.6.5,category2_description,95% positive over last 12 months
+ 42.2.7.5,category2_description,92% positive over last 12 months
+ 42.2.8.5,category2_description,93% positive over last 12 months
+ 42.2.9.5,category2_description,87% positive over last 12 months
+ 42.2.1.1,category2_name,Photo4Less
+ 42.2.10.1,category2_name,Adorama
+ 42.2.11.1,category2_name,Amazon.com
+ 42.2.12.1,category2_name,Guitar Audio
+ 42.2.13.1,category2_name,Backwoods Guitar LLC
+ 42.2.14.1,category2_name,Sole Source AV Supply
+ 42.2.15.1,category2_name,Capital Music Gear
+ 42.2.16.1,category2_name,Nan
+ 42.2.2.1,category2_name,BestPricesPeriod!
+ 42.2.3.1,category2_name,Mugan_Music_Group
+ 42.2.4.1,category2_name,AVLGear
+ 42.2.5.1,category2_name,Full Compass Systems
+ 42.2.6.1,category2_name,GuitarTruck
+ 42.2.7.1,category2_name,Interstate Music
+ 42.2.8.1,category2_name,Marmalade USA
+ 42.2.9.1,category2_name,Consumer Supply Co
+ 42.2.1.2,category2_price,Nan
+ 42.2.10.2,category2_price,Nan
+ 42.2.11.2,category2_price,Nan
+ 42.2.12.2,category2_price,Nan
+ 42.2.13.2,category2_price,Nan
+ 42.2.14.2,category2_price,Nan
+ 42.2.15.2,category2_price,Nan
+ 42.2.16.2,category2_price,Nan
+ 42.2.2.2,category2_price,Nan
+ 42.2.3.2,category2_price,Nan
+ 42.2.4.2,category2_price,Nan
+ 42.2.5.2,category2_price,Nan
+ 42.2.6.2,category2_price,Nan
+ 42.2.7.2,category2_price,Nan
+ 42.2.8.2,category2_price,Nan
+ 42.2.9.2,category2_price,Nan
+ 42.2.1.4,category2_rating_count,38240
+ 42.2.10.4,category2_rating_count,573346
+ 42.2.11.4,category2_rating_count,440
+ 42.2.12.4,category2_rating_count,6347
+ 42.2.13.4,category2_rating_count,4
+ 42.2.14.4,category2_rating_count,$13.41
+ 42.2.15.4,category2_rating_count,401
+ 42.2.16.4,category2_rating_count,958
+ 42.2.2.4,category2_rating_count,844
+ 42.2.3.4,category2_rating_count,2340
+ 42.2.4.4,category2_rating_count,4281
+ 42.2.5.4,category2_rating_count,9116
+ 42.2.6.4,category2_rating_count,324
+ 42.2.7.4,category2_rating_count,7711
+ 42.2.8.4,category2_rating_count,162
+ 42.2.9.4,category2_rating_count,538
+ 42.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 42.2.10.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 42.2.11.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 42.2.12.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 42.2.13.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 42.2.14.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 42.2.15.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 42.2.16.3,category2_review,Nan
+ 42.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 42.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 42.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 42.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 42.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 42.2.7.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 42.2.8.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 42.2.9.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 43.1.1.1,category1_name,CAD Audio Equitek E70 Small Diaphragm Condenser Microphone includes Cardioid and Omni Capsules
+ 43.1.1.4,category1_price,$199.00
+ 43.1.1.2,category1_rating,32 ratings
+ 43.1.1.3,category1_review,a-icon a-icon-star a-star-4-5
+ 43.2.1.5,category2_description,99% positive over last 12 months
+ 43.2.2.5,category2_description,84% positive over last 12 months
+ 43.2.3.5,category2_description,92% positive over last 12 months
+ 43.2.4.5,category2_description,93% positive over last 12 months
+ 43.2.1.1,category2_name,Amazon.com
+ 43.2.2.1,category2_name,AVLGear
+ 43.2.3.1,category2_name,Interstate Music
+ 43.2.4.1,category2_name,Marmalade USA
+ 43.2.1.2,category2_price,$129.00
+ 43.2.2.2,category2_price,$199.00
+ 43.2.3.2,category2_price,$199.99
+ 43.2.4.2,category2_price,$199.99
+ 43.2.1.4,category2_rating_count,286461
+ 43.2.2.4,category2_rating_count,4281
+ 43.2.3.4,category2_rating_count,7711
+ 43.2.4.4,category2_rating_count,162
+ 43.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 43.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 43.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 43.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 44.1.1.1,category1_name,"Astatic 119L-19 19"" Cardioid Dynamic Gooseneck Microphone - Gooseneck, 2 3/4 inch Flange (6-foot Cable)"
+ 44.1.1.4,category1_price,$129.00
+ 44.1.1.2,category1_rating,6 ratings
+ 44.1.1.3,category1_review,a-icon a-icon-star a-star-4-5
+ 44.2.1.5,category2_description,90% positive over last 12 months
+ 44.2.2.5,category2_description,93% positive
+ 44.2.3.5,category2_description,84% positive over last 12 months
+ 44.2.4.5,category2_description,98% positive over last 12 months
+ 44.2.5.5,category2_description,89% positive over last 12 months
+ 44.2.6.5,category2_description,87% positive over last 12 months
+ 44.2.1.1,category2_name,Full Compass Systems
+ 44.2.2.1,category2_name,SoundEthics
+ 44.2.3.1,category2_name,AVLGear
+ 44.2.4.1,category2_name,Amazon.com
+ 44.2.5.1,category2_name,Casa Mila Inc
+ 44.2.6.1,category2_name,Consumer Supply Co
+ 44.2.1.2,category2_price,$129.00
+ 44.2.2.2,category2_price,$129.99
+ 44.2.3.2,category2_price,$129.00
+ 44.2.4.2,category2_price,$149.00
+ 44.2.5.2,category2_price,$176.98
+ 44.2.6.2,category2_price,$186.11
+ 44.2.1.4,category2_rating_count,9116
+ 44.2.2.4,category2_rating_count,95
+ 44.2.3.4,category2_rating_count,4281
+ 44.2.4.4,category2_rating_count,37577
+ 44.2.5.4,category2_rating_count,496
+ 44.2.6.4,category2_rating_count,538
+ 44.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 44.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 44.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 44.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 44.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 44.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 45.1.1.1,category1_name,CAD Audio Equitek E60 Small Diaphragm Condenser Microphone
+ 45.1.1.4,category1_price,$79.99
+ 45.1.1.2,category1_rating,8 ratings
+ 45.1.1.3,category1_review,a-icon a-icon-star a-star-4-5
+ 45.2.1.5,category2_description,94% positive
+ 45.2.2.5,category2_description,92% positive over last 12 months
+ 45.2.1.1,category2_name,Front End Audio
+ 45.2.2.1,category2_name,Interstate Music
+ 45.2.1.2,category2_price,$149.00
+ 45.2.2.2,category2_price,$199.99
+ 45.2.1.4,category2_rating_count,846
+ 45.2.2.4,category2_rating_count,7711
+ 45.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 45.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 46.1.1.1,category1_name,"Astatic 40-117 Desk Stand-Gooseneck Mic, Push to Talk or Push to Mute with LED Light"
+ 46.1.1.4,category1_price,$109.99
+ 46.1.1.2,category1_rating,4 ratings
+ 46.1.1.3,category1_review,a-icon a-icon-star a-star-4
+ 46.2.1.5,category2_description,84% positive over last 12 months
+ 46.2.2.5,category2_description,82% positive over last 12 months
+ 46.2.1.1,category2_name,AVLGear
+ 46.2.2.1,category2_name,Whole Premium Store
+ 46.2.1.2,category2_price,$109.00
+ 46.2.2.2,category2_price,$166.77
+ 46.2.1.4,category2_rating_count,4281
+ 46.2.2.4,category2_rating_count,166
+ 46.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 46.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 47.1.1.1,category1_name,Astatic 900B Cardioid Condenser Hanging Choir Mic - Equitek Capsule for Extended Frequency Response
+ 47.1.1.4,category1_price,$149.95
+ 47.1.1.2,category1_rating,1 rating
+ 47.1.1.3,category1_review,a-icon a-icon-star a-star-5
+ 47.2.1.5,category2_description,87% positive over last 12 months
+ 47.2.2.5,category2_description,84% positive over last 12 months
+ 47.2.1.1,category2_name,Consumer Supply Co
+ 47.2.2.1,category2_name,AVLGear
+ 47.2.1.2,category2_price,$195.00
+ 47.2.2.2,category2_price,Nan
+ 47.2.1.4,category2_rating_count,538
+ 47.2.2.4,category2_rating_count,4281
+ 47.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 47.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 48.1.1.1,category1_name,CAD Audio WALL MICROPHONE (WM-1000)
+ 48.1.1.4,category1_price,$149.00
+ 48.1.1.2,category1_rating,1 rating
+ 48.1.1.3,category1_review,a-icon a-icon-star a-star-5
+ 48.2.1.5,category2_description,93% positive over last 12 months
+ 48.2.2.5,category2_description,Nan
+ 48.2.3.5,category2_description,84% positive over last 12 months
+ 48.2.1.1,category2_name,Marmalade USA
+ 48.2.2.1,category2_name,AVLGear
+ 48.2.3.1,category2_name,Nan
+ 48.2.1.2,category2_price,$149.99
+ 48.2.2.2,category2_price,$149.00
+ 48.2.3.2,category2_price,Nan
+ 48.2.1.4,category2_rating_count,162
+ 48.2.2.4,category2_rating_count,$13.95
+ 48.2.3.4,category2_rating_count,4281
+ 48.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 48.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 48.2.3.3,category2_review,Nan
+ 49.1.1.1,category1_name,CAD Audio CADLive D88 Large Diaphragm Supercardioid Dynamic Kick Drum Microphone
+ 49.1.1.4,category1_price,$99.00
+ 49.1.1.2,category1_rating,2 ratings
+ 49.1.1.3,category1_review,a-icon a-icon-star a-star-3-5
+ 49.2.1.5,category2_description,82% positive over last 12 months
+ 49.2.10.5,category2_description,72% positive over last 12 months
+ 49.2.11.5,category2_description,Nan
+ 49.2.12.5,category2_description,Nan
+ 49.2.2.5,category2_description,96% positive over last 12 months
+ 49.2.3.5,category2_description,84% positive over last 12 months
+ 49.2.4.5,category2_description,92% positive over last 12 months
+ 49.2.5.5,category2_description,95% positive over last 12 months
+ 49.2.6.5,category2_description,89% positive over last 12 months
+ 49.2.7.5,category2_description,93% positive over last 12 months
+ 49.2.8.5,category2_description,91% positive over last 12 months
+ 49.2.9.5,category2_description,100% positive over last 12 months
+ 49.2.1.1,category2_name,Licario
+ 49.2.10.1,category2_name,Guitar Audio
+ 49.2.11.1,category2_name,Backwoods Guitar LLC
+ 49.2.12.1,category2_name,Rover Mall
+ 49.2.2.1,category2_name,Bailey Brothers Music Company
+ 49.2.3.1,category2_name,AVLGear
+ 49.2.4.1,category2_name,Amazon.com
+ 49.2.5.1,category2_name,Amazon.com
+ 49.2.6.1,category2_name,Interstate Music
+ 49.2.7.1,category2_name,GuitarTruck
+ 49.2.8.1,category2_name,Pitbull Electronics
+ 49.2.9.1,category2_name,Marmalade USA
+ 49.2.1.2,category2_price,$107.28
+ 49.2.10.2,category2_price,Nan
+ 49.2.11.2,category2_price,Nan
+ 49.2.12.2,category2_price,Nan
+ 49.2.2.2,category2_price,$140.40
+ 49.2.3.2,category2_price,Nan
+ 49.2.4.2,category2_price,Nan
+ 49.2.5.2,category2_price,Nan
+ 49.2.6.2,category2_price,Nan
+ 49.2.7.2,category2_price,Nan
+ 49.2.8.2,category2_price,Nan
+ 49.2.9.2,category2_price,Nan
+ 49.2.1.4,category2_rating_count,59
+ 49.2.10.4,category2_rating_count,37577
+ 49.2.11.4,category2_rating_count,Nan
+ 49.2.12.4,category2_rating_count,Nan
+ 49.2.2.4,category2_rating_count,1450
+ 49.2.3.4,category2_rating_count,4281
+ 49.2.4.4,category2_rating_count,7711
+ 49.2.5.4,category2_rating_count,324
+ 49.2.6.4,category2_rating_count,5125
+ 49.2.7.4,category2_rating_count,162
+ 49.2.8.4,category2_rating_count,6347
+ 49.2.9.4,category2_rating_count,4
+ 49.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 49.2.10.3,category2_review,a-icon a-icon-star-mini a-star-mini-4 aod-seller-rating-count-class
+ 49.2.11.3,category2_review,Nan
+ 49.2.12.3,category2_review,Nan
+ 49.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 49.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 49.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 49.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 49.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 49.2.7.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 49.2.8.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 49.2.9.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 50.1.1.1,category1_name,"CAD PM1100 PodMaster™ D usb Professional Broadcast / Podcasting Microphone with Dynamic Capsule, supplied with Broadcast Boom Mic Stand"
+ 50.1.1.4,category1_price,$59.99
+ 50.1.1.2,category1_rating,32 ratings
+ 50.1.1.3,category1_review,a-icon a-icon-star a-star-4-5
+ 50.2.1.5,category2_description,96% positive over last 12 months
+ 50.2.10.5,category2_description,93% positive over last 12 months
+ 50.2.11.5,category2_description,Nan
+ 50.2.2.5,category2_description,99% positive over last 12 months
+ 50.2.3.5,category2_description,97% positive over last 12 months
+ 50.2.4.5,category2_description,93% positive over last 12 months
+ 50.2.5.5,category2_description,94% positive over last 12 months
+ 50.2.6.5,category2_description,89% positive over last 12 months
+ 50.2.7.5,category2_description,98% positive over last 12 months
+ 50.2.8.5,category2_description,Nan
+ 50.2.9.5,category2_description,84% positive over last 12 months
+ 50.2.1.1,category2_name,Amazon.com
+ 50.2.10.1,category2_name,AVLGear
+ 50.2.11.1,category2_name,Marmalade USA
+ 50.2.2.1,category2_name,Amazon.com
+ 50.2.3.1,category2_name,DigitalDJGear
+ 50.2.4.1,category2_name,GearTree
+ 50.2.5.1,category2_name,Amazon.com
+ 50.2.6.1,category2_name,Amazon.com
+ 50.2.7.1,category2_name,MusicStoreLive
+ 50.2.8.1,category2_name,Pitbull Electronics
+ 50.2.9.1,category2_name,M Z Photo
+ 50.2.1.2,category2_price,Nan
+ 50.2.10.2,category2_price,Nan
+ 50.2.11.2,category2_price,Nan
+ 50.2.2.2,category2_price,Nan
+ 50.2.3.2,category2_price,Nan
+ 50.2.4.2,category2_price,Nan
+ 50.2.5.2,category2_price,Nan
+ 50.2.6.2,category2_price,Nan
+ 50.2.7.2,category2_price,Nan
+ 50.2.8.2,category2_price,Nan
+ 50.2.9.2,category2_price,Nan
+ 50.2.1.4,category2_rating_count,24284
+ 50.2.10.4,category2_rating_count,162
+ 50.2.11.4,category2_rating_count,Nan
+ 50.2.2.4,category2_rating_count,38240
+ 50.2.3.4,category2_rating_count,1939
+ 50.2.4.4,category2_rating_count,21151
+ 50.2.5.4,category2_rating_count,2646
+ 50.2.6.4,category2_rating_count,5125
+ 50.2.7.4,category2_rating_count,37577
+ 50.2.8.4,category2_rating_count,$17.95
+ 50.2.9.4,category2_rating_count,4281
+ 50.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 50.2.10.3,category2_review,Nan
+ 50.2.11.3,category2_review,Nan
+ 50.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 50.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 50.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 50.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 50.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 50.2.7.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 50.2.8.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 50.2.9.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 51.1.1.1,category1_name,CAD Audio DH100 Drummer Isolation Headphones
+ 51.1.1.4,category1_price,$62.79
+ 51.1.1.2,category1_rating,171 ratings
+ 51.1.1.3,category1_review,a-icon a-icon-star a-star-4
+ 51.2.1.5,category2_description,96% positive over last 12 months
+ 51.2.10.5,category2_description,84% positive over last 12 months
+ 51.2.2.5,category2_description,95% positive over last 12 months
+ 51.2.3.5,category2_description,92% positive over last 12 months
+ 51.2.4.5,category2_description,89% positive over last 12 months
+ 51.2.5.5,category2_description,94% positive over last 12 months
+ 51.2.6.5,category2_description,72% positive over last 12 months
+ 51.2.7.5,category2_description,Nan
+ 51.2.8.5,category2_description,88% positive over last 12 months
+ 51.2.9.5,category2_description,91% positive over last 12 months
+ 51.2.1.1,category2_name,Bailey Brothers Music Company
+ 51.2.10.1,category2_name,Nan
+ 51.2.2.1,category2_name,GuitarTruck
+ 51.2.3.1,category2_name,Interstate Music
+ 51.2.4.1,category2_name,Pitbull Electronics
+ 51.2.5.1,category2_name,MusicStoreLive
+ 51.2.6.1,category2_name,Rover Mall
+ 51.2.7.1,category2_name,The Muzic Store Inc.
+ 51.2.8.1,category2_name,Guitar Audio
+ 51.2.9.1,category2_name,AVLGear
+ 51.2.1.2,category2_price,Nan
+ 51.2.10.2,category2_price,Nan
+ 51.2.2.2,category2_price,Nan
+ 51.2.3.2,category2_price,Nan
+ 51.2.4.2,category2_price,Nan
+ 51.2.5.2,category2_price,Nan
+ 51.2.6.2,category2_price,Nan
+ 51.2.7.2,category2_price,Nan
+ 51.2.8.2,category2_price,Nan
+ 51.2.9.2,category2_price,Nan
+ 51.2.1.4,category2_rating_count,1450
+ 51.2.10.4,category2_rating_count,4281
+ 51.2.2.4,category2_rating_count,324
+ 51.2.3.4,category2_rating_count,7711
+ 51.2.4.4,category2_rating_count,5125
+ 51.2.5.4,category2_rating_count,2646
+ 51.2.6.4,category2_rating_count,37577
+ 51.2.7.4,category2_rating_count,$7.95
+ 51.2.8.4,category2_rating_count,1560
+ 51.2.9.4,category2_rating_count,6347
+ 51.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 51.2.10.3,category2_review,Nan
+ 51.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 51.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 51.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 51.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 51.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-4 aod-seller-rating-count-class
+ 51.2.7.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 51.2.8.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 51.2.9.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 52.1.1.1,category1_name,CAD Audio PM3100 PodMaster Run-n-Gun Professional Podcast/Streaming Microphone
+ 52.1.1.4,category1_price,$49.99
+ 52.1.1.2,category1_rating,Nan
+ 52.1.1.3,category1_review,Nan
+ 52.2.1.5,category2_description,92% positive over last 12 months
+ 52.2.2.5,category2_description,94% positive over last 12 months
+ 52.2.3.5,category2_description,89% positive over last 12 months
+ 52.2.4.5,category2_description,Nan
+ 52.2.1.1,category2_name,CAD Audio PM3100 PodMaster Run-n-Gun Professional Podcast/Streaming Microphone
+ 52.2.2.1,category2_name,Interstate Music
+ 52.2.3.1,category2_name,MusicStoreLive
+ 52.2.4.1,category2_name,First Harmonic Limited
+ 52.2.1.2,category2_price,Nan
+ 52.2.2.2,category2_price,Nan
+ 52.2.3.2,category2_price,Nan
+ 52.2.4.2,category2_price,Nan
+ 52.2.1.4,category2_rating_count,7711
+ 52.2.2.4,category2_rating_count,2646
+ 52.2.3.4,category2_rating_count,302
+ 52.2.4.4,category2_rating_count,Nan
+ 52.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 52.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 52.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 52.2.4.3,category2_review,Nan
+ 53.1.1.1,category1_name,"CAD Audio Stage7 7 Piece Drum Mic Pack - Includes Kick Mic, Snare Mic, 3 Tom Mics and 2 Overhead Condenser Mics"
+ 53.1.1.4,category1_price,$179.99
+ 53.1.1.2,category1_rating,121 ratings
+ 53.1.1.3,category1_review,a-icon a-icon-star a-star-4-5
+ 53.2.1.5,category2_description,95% positive
+ 53.2.10.5,category2_description,89% positive over last 12 months
+ 53.2.11.5,category2_description,96% positive over last 12 months
+ 53.2.12.5,category2_description,92% positive over last 12 months
+ 53.2.13.5,category2_description,94% positive over last 12 months
+ 53.2.14.5,category2_description,89% positive over last 12 months
+ 53.2.15.5,category2_description,85% positive over last 12 months
+ 53.2.16.5,category2_description,72% positive over last 12 months
+ 53.2.17.5,category2_description,Nan
+ 53.2.18.5,category2_description,Nan
+ 53.2.2.5,category2_description,89% positive over last 12 months
+ 53.2.3.5,category2_description,96% positive over last 12 months
+ 53.2.4.5,category2_description,93% positive over last 12 months
+ 53.2.5.5,category2_description,97% positive over last 12 months
+ 53.2.6.5,category2_description,100% positive over last 12 months
+ 53.2.7.5,category2_description,99% positive over last 12 months
+ 53.2.8.5,category2_description,84% positive over last 12 months
+ 53.2.9.5,category2_description,99% positive over last 12 months
+ 53.2.1.1,category2_name,Big Llama
+ 53.2.10.1,category2_name,AVLGear
+ 53.2.11.1,category2_name,Amazon.com
+ 53.2.12.1,category2_name,Absolute Pro Music Superstore
+ 53.2.13.1,category2_name,K&M Camera Since 1976
+ 53.2.14.1,category2_name,Interstate Music
+ 53.2.15.1,category2_name,MusicStoreLive
+ 53.2.16.1,category2_name,Pitbull Electronics
+ 53.2.17.1,category2_name,Yandas Music & Pro Audio
+ 53.2.18.1,category2_name,Rover Mall
+ 53.2.2.1,category2_name,Amazon.com
+ 53.2.3.1,category2_name,Amazon.com
+ 53.2.4.1,category2_name,Absolute Pro Music Superstore
+ 53.2.5.1,category2_name,Amazon.com
+ 53.2.6.1,category2_name,GearTree
+ 53.2.7.1,category2_name,Hertel Electronics
+ 53.2.8.1,category2_name,Crazy Dave's Music
+ 53.2.9.1,category2_name,Photo4Less
+ 53.2.1.2,category2_price,$182.02
+ 53.2.10.2,category2_price,$199.99
+ 53.2.11.2,category2_price,$185.94
+ 53.2.12.2,category2_price,$199.00
+ 53.2.13.2,category2_price,$199.99
+ 53.2.14.2,category2_price,$199.99
+ 53.2.15.2,category2_price,$199.99
+ 53.2.16.2,category2_price,$218.90
+ 53.2.17.2,category2_price,$238.16
+ 53.2.18.2,category2_price,Nan
+ 53.2.2.2,category2_price,$182.03
+ 53.2.3.2,category2_price,$185.94
+ 53.2.4.2,category2_price,$199.00
+ 53.2.5.2,category2_price,$199.00
+ 53.2.6.2,category2_price,$199.00
+ 53.2.7.2,category2_price,$199.00
+ 53.2.8.2,category2_price,$199.00
+ 53.2.9.2,category2_price,$199.00
+ 53.2.1.4,category2_rating_count,22
+ 53.2.10.4,category2_rating_count,45
+ 53.2.11.4,category2_rating_count,24284
+ 53.2.12.4,category2_rating_count,7711
+ 53.2.13.4,category2_rating_count,2646
+ 53.2.14.4,category2_rating_count,5125
+ 53.2.15.4,category2_rating_count,269
+ 53.2.16.4,category2_rating_count,37577
+ 53.2.17.4,category2_rating_count,Nan
+ 53.2.18.4,category2_rating_count,Nan
+ 53.2.2.4,category2_rating_count,45
+ 53.2.3.4,category2_rating_count,24284
+ 53.2.4.4,category2_rating_count,21151
+ 53.2.5.4,category2_rating_count,52
+ 53.2.6.4,category2_rating_count,1978
+ 53.2.7.4,category2_rating_count,38240
+ 53.2.8.4,category2_rating_count,4281
+ 53.2.9.4,category2_rating_count,2260
+ 53.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 53.2.10.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 53.2.11.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 53.2.12.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 53.2.13.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 53.2.14.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 53.2.15.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 53.2.16.3,category2_review,a-icon a-icon-star-mini a-star-mini-4 aod-seller-rating-count-class
+ 53.2.17.3,category2_review,Nan
+ 53.2.18.3,category2_review,Nan
+ 53.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 53.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 53.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 53.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 53.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 53.2.7.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 53.2.8.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 53.2.9.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 54.1.1.1,category1_name,"CAD Audio D38X3 MICROPHONE PACK, 3 Pack"
+ 54.1.1.4,category1_price,$69.00
+ 54.1.1.2,category1_rating,29 ratings
+ 54.1.1.3,category1_review,a-icon a-icon-star a-star-4-5
+ 54.2.1.5,category2_description,65% positive over last 12 months
+ 54.2.10.5,category2_description,77% positive over last 12 months
+ 54.2.11.5,category2_description,77% positive over last 12 months
+ 54.2.12.5,category2_description,89% positive over last 12 months
+ 54.2.13.5,category2_description,Nan
+ 54.2.14.5,category2_description,Nan
+ 54.2.2.5,category2_description,98% positive over last 12 months
+ 54.2.3.5,category2_description,89% positive over last 12 months
+ 54.2.4.5,category2_description,84% positive over last 12 months
+ 54.2.5.5,category2_description,94% positive over last 12 months
+ 54.2.6.5,category2_description,77% positive over last 12 months
+ 54.2.7.5,category2_description,89% positive over last 12 months
+ 54.2.8.5,category2_description,72% positive over last 12 months
+ 54.2.9.5,category2_description,93% positive
+ 54.2.1.1,category2_name,Amazon.com
+ 54.2.10.1,category2_name,Rover Mall
+ 54.2.11.1,category2_name,World Music Supply
+ 54.2.12.1,category2_name,Mega Big Box
+ 54.2.13.1,category2_name,Mega Big Box
+ 54.2.14.1,category2_name,Dale Pro Audio
+ 54.2.2.1,category2_name,Amazon.com
+ 54.2.3.1,category2_name,Absolute Pro Music
+ 54.2.4.1,category2_name,Mugan_Music_Group
+ 54.2.5.1,category2_name,Absolute Pro Music Superstore
+ 54.2.6.1,category2_name,AVLGear
+ 54.2.7.1,category2_name,MusicStoreLive
+ 54.2.8.1,category2_name,Mega Big Box
+ 54.2.9.1,category2_name,Pitbull Electronics
+ 54.2.1.2,category2_price,Nan
+ 54.2.10.2,category2_price,Nan
+ 54.2.11.2,category2_price,Nan
+ 54.2.12.2,category2_price,Nan
+ 54.2.13.2,category2_price,Nan
+ 54.2.14.2,category2_price,Nan
+ 54.2.2.2,category2_price,Nan
+ 54.2.3.2,category2_price,Nan
+ 54.2.4.2,category2_price,Nan
+ 54.2.5.2,category2_price,Nan
+ 54.2.6.2,category2_price,Nan
+ 54.2.7.2,category2_price,Nan
+ 54.2.8.2,category2_price,Nan
+ 54.2.9.2,category2_price,Nan
+ 54.2.1.4,category2_rating_count,3169
+ 54.2.10.4,category2_rating_count,568
+ 54.2.11.4,category2_rating_count,568
+ 54.2.12.4,category2_rating_count,8753
+ 54.2.13.4,category2_rating_count,Nan
+ 54.2.14.4,category2_rating_count,Nan
+ 54.2.2.4,category2_rating_count,2340
+ 54.2.3.4,category2_rating_count,45
+ 54.2.4.4,category2_rating_count,4281
+ 54.2.5.4,category2_rating_count,2646
+ 54.2.6.4,category2_rating_count,568
+ 54.2.7.4,category2_rating_count,5125
+ 54.2.8.4,category2_rating_count,37577
+ 54.2.9.4,category2_rating_count,297
+ 54.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-3-5 aod-seller-rating-count-class
+ 54.2.10.3,category2_review,a-icon a-icon-star-mini a-star-mini-4 aod-seller-rating-count-class
+ 54.2.11.3,category2_review,a-icon a-icon-star-mini a-star-mini-4 aod-seller-rating-count-class
+ 54.2.12.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 54.2.13.3,category2_review,Nan
+ 54.2.14.3,category2_review,Nan
+ 54.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 54.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 54.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 54.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 54.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-4 aod-seller-rating-count-class
+ 54.2.7.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 54.2.8.3,category2_review,a-icon a-icon-star-mini a-star-mini-4 aod-seller-rating-count-class
+ 54.2.9.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 55.1.1.1,category1_name,"Astatic 119S-19 19"" Cardioid Dynamic Gooseneck Microphone with DPDT Push-to-Talk Switch - Gooseneck Microphone, 2 3/4 inch Flange (6' Cable)"
+ 55.1.1.4,category1_price,$122.14
+ 55.1.1.2,category1_rating,6 ratings
+ 55.1.1.3,category1_review,a-icon a-icon-star a-star-4-5
+ 55.2.1.5,category2_description,99% positive over last 12 months
+ 55.2.10.5,category2_description,87% positive over last 12 months
+ 55.2.11.5,category2_description,85% positive over last 12 months
+ 55.2.12.5,category2_description,84% positive over last 12 months
+ 55.2.2.5,category2_description,99% positive over last 12 months
+ 55.2.3.5,category2_description,80% positive over last 12 months
+ 55.2.4.5,category2_description,73% positive
+ 55.2.5.5,category2_description,90% positive over last 12 months
+ 55.2.6.5,category2_description,83% positive over last 12 months
+ 55.2.7.5,category2_description,Nan
+ 55.2.8.5,category2_description,71% positive over last 12 months
+ 55.2.9.5,category2_description,89% positive over last 12 months
+ 55.2.1.1,category2_name,Amazon.com
+ 55.2.10.1,category2_name,BeachAudio
+ 55.2.11.1,category2_name,AVLGear
+ 55.2.12.1,category2_name,Nan
+ 55.2.2.1,category2_name,Hamcity com
+ 55.2.3.1,category2_name,Provantage LLC
+ 55.2.4.1,category2_name,OverstockBay
+ 55.2.5.1,category2_name,Full Compass Systems
+ 55.2.6.1,category2_name,Home Essentials ✅
+ 55.2.7.1,category2_name,JM PRIME
+ 55.2.8.1,category2_name,Casa Mila Inc
+ 55.2.9.1,category2_name,Consumer Supply Co
+ 55.2.1.2,category2_price,$121.14
+ 55.2.10.2,category2_price,$152.44
+ 55.2.11.2,category2_price,$179.00
+ 55.2.12.2,category2_price,Nan
+ 55.2.2.2,category2_price,$129.99
+ 55.2.3.2,category2_price,$134.94
+ 55.2.4.2,category2_price,$129.00
+ 55.2.5.2,category2_price,$139.99
+ 55.2.6.2,category2_price,$143.06
+ 55.2.7.2,category2_price,$137.63
+ 55.2.8.2,category2_price,$147.92
+ 55.2.9.2,category2_price,$151.09
+ 55.2.1.4,category2_rating_count,2260
+ 55.2.10.4,category2_rating_count,538
+ 55.2.11.4,category2_rating_count,186332
+ 55.2.12.4,category2_rating_count,4281
+ 55.2.2.4,category2_rating_count,7012
+ 55.2.3.4,category2_rating_count,1760
+ 55.2.4.4,category2_rating_count,11
+ 55.2.5.4,category2_rating_count,9116
+ 55.2.6.4,category2_rating_count,16920
+ 55.2.7.4,category2_rating_count,$9.81
+ 55.2.8.4,category2_rating_count,53617
+ 55.2.9.4,category2_rating_count,496
+ 55.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 55.2.10.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 55.2.11.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 55.2.12.3,category2_review,Nan
+ 55.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 55.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-4 aod-seller-rating-count-class
+ 55.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4 aod-seller-rating-count-class
+ 55.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 55.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 55.2.7.3,category2_review,a-icon a-icon-star-mini a-star-mini-4 aod-seller-rating-count-class
+ 55.2.8.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 55.2.9.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 56.1.1.1,category1_name,"CAD Audio GXLIEM2 Frequency Agile Wireless In Ear Monitor System - Two discrete mixes - includes 2 MEB1 Earbuds, 2 Bodypack Receivers, Rack Mount Ears and Antenna Relocation Kit"
+ 56.1.1.4,category1_price,$329.00
+ 56.1.1.2,category1_rating,19 ratings
+ 56.1.1.3,category1_review,a-icon a-icon-star a-star-4-5
+ 56.2.1.5,category2_description,96% positive over last 12 months
+ 56.2.2.5,category2_description,91% positive over last 12 months
+ 56.2.3.5,category2_description,93% positive over last 12 months
+ 56.2.4.5,category2_description,88% positive over last 12 months
+ 56.2.5.5,category2_description,93% positive over last 12 months
+ 56.2.6.5,category2_description,84% positive over last 12 months
+ 56.2.7.5,category2_description,89% positive over last 12 months
+ 56.2.8.5,category2_description,87% positive over last 12 months
+ 56.2.9.5,category2_description,90% positive over last 12 months
+ 56.2.1.1,category2_name,Bailey Brothers Music Company
+ 56.2.2.1,category2_name,Guitar Audio
+ 56.2.3.1,category2_name,GearTree
+ 56.2.4.1,category2_name,Capital Music Gear
+ 56.2.5.1,category2_name,Marmalade USA
+ 56.2.6.1,category2_name,AVLGear
+ 56.2.7.1,category2_name,"SETI, Inc."
+ 56.2.8.1,category2_name,Consumer Supply Co
+ 56.2.9.1,category2_name,American Shopping
+ 56.2.1.2,category2_price,$329.00
+ 56.2.2.2,category2_price,$329.00
+ 56.2.3.2,category2_price,$329.99
+ 56.2.4.2,category2_price,$329.99
+ 56.2.5.2,category2_price,$329.99
+ 56.2.6.2,category2_price,$329.00
+ 56.2.7.2,category2_price,$369.29
+ 56.2.8.2,category2_price,$387.42
+ 56.2.9.2,category2_price,$492.38
+ 56.2.1.4,category2_rating_count,1450
+ 56.2.2.4,category2_rating_count,6347
+ 56.2.3.4,category2_rating_count,21151
+ 56.2.4.4,category2_rating_count,958
+ 56.2.5.4,category2_rating_count,162
+ 56.2.6.4,category2_rating_count,4281
+ 56.2.7.4,category2_rating_count,298
+ 56.2.8.4,category2_rating_count,538
+ 56.2.9.4,category2_rating_count,670
+ 56.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 56.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 56.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 56.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 56.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 56.2.6.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 56.2.7.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 56.2.8.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 56.2.9.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 57.1.1.1,category1_name,CAD GXLIEM Wireless In Ear Monitor System - Single Mix System
+ 57.1.1.4,category1_price,$199.00
+ 57.1.1.2,category1_rating,19 ratings
+ 57.1.1.3,category1_review,a-icon a-icon-star a-star-4-5
+ 57.2.1.5,category2_description,Nan
+ 57.2.2.5,category2_description,98% positive over last 12 months
+ 57.2.3.5,category2_description,84% positive over last 12 months
+ 57.2.4.5,category2_description,89% positive over last 12 months
+ 57.2.5.5,category2_description,87% positive over last 12 months
+ 57.2.6.5,category2_description,90% positive over last 12 months
+ 57.2.1.1,category2_name,South Western Limited
+ 57.2.2.1,category2_name,AVLGear
+ 57.2.3.1,category2_name,"SETI, Inc."
+ 57.2.4.1,category2_name,Consumer Supply Co
+ 57.2.5.1,category2_name,American Shopping
+ 57.2.6.1,category2_name,Nan
+ 57.2.1.2,category2_price,$199.99
+ 57.2.2.2,category2_price,$199.00
+ 57.2.3.2,category2_price,$248.62
+ 57.2.4.2,category2_price,$284.76
+ 57.2.5.2,category2_price,$331.49
+ 57.2.6.2,category2_price,Nan
+ 57.2.1.4,category2_rating_count,$6.16
+ 57.2.2.4,category2_rating_count,609
+ 57.2.3.4,category2_rating_count,4281
+ 57.2.4.4,category2_rating_count,298
+ 57.2.5.4,category2_rating_count,538
+ 57.2.6.4,category2_rating_count,670
+ 57.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-5 aod-seller-rating-count-class
+ 57.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 57.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 57.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 57.2.5.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 57.2.6.3,category2_review,Nan
+ 58.1.1.1,category1_name,"Astatic 201R Cardioid Condenser Boundary Button Microphone, Black"
+ 58.1.1.4,category1_price,$190.52
+ 58.1.1.2,category1_rating,Nan
+ 58.1.1.3,category1_review,Nan
+ 58.2.1.5,category2_description,91% positive over last 12 months
+ 58.2.2.5,category2_description,84% positive over last 12 months
+ 58.2.3.5,category2_description,Nan
+ 58.2.1.1,category2_name,"Astatic 201R Cardioid Condenser Boundary Button Microphone, Black"
+ 58.2.2.1,category2_name,Guitar Audio
+ 58.2.3.1,category2_name,AVLGear
+ 58.2.1.2,category2_price,$195.00
+ 58.2.2.2,category2_price,$195.00
+ 58.2.3.2,category2_price,Nan
+ 58.2.1.4,category2_rating_count,6347
+ 58.2.2.4,category2_rating_count,4281
+ 58.2.3.4,category2_rating_count,Nan
+ 58.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 58.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 58.2.3.3,category2_review,Nan
+ 59.1.1.1,category1_name,"Astatic 727-18 18"" Dynamic Cardioid Gooseneck"
+ 59.1.1.4,category1_price,$59.95
+ 59.1.1.2,category1_rating,5 ratings
+ 59.1.1.3,category1_review,a-icon a-icon-star a-star-4-5
+ 59.2.1.5,category2_description,87% positive over last 12 months
+ 59.2.2.5,category2_description,92% positive over last 12 months
+ 59.2.3.5,category2_description,90% positive over last 12 months
+ 59.2.4.5,category2_description,84% positive over last 12 months
+ 59.2.1.1,category2_name,Consumer Supply Co
+ 59.2.2.1,category2_name,Interstate Music
+ 59.2.3.1,category2_name,Full Compass Systems
+ 59.2.4.1,category2_name,AVLGear
+ 59.2.1.2,category2_price,Nan
+ 59.2.2.2,category2_price,Nan
+ 59.2.3.2,category2_price,Nan
+ 59.2.4.2,category2_price,Nan
+ 59.2.1.4,category2_rating_count,538
+ 59.2.2.4,category2_rating_count,7711
+ 59.2.3.4,category2_rating_count,9116
+ 59.2.4.4,category2_rating_count,4281
+ 59.2.1.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 59.2.2.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 59.2.3.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
+ 59.2.4.3,category2_review,a-icon a-icon-star-mini a-star-mini-4-5 aod-seller-rating-count-class
